@@ -24,7 +24,7 @@ APPLESCRIPT
 open_interface() {
   # Allows the startup path to be checked without controlling a desktop session.
   if [[ "${SCOUT_LAUNCHER_HEADLESS:-0}" != 1 ]]; then
-    /usr/bin/open "${SCOUT_URL}"
+    /usr/bin/open "${SCOUT_PUBLIC_URL}"
   fi
 }
 
@@ -43,10 +43,11 @@ if ! SCOUT_PORT="$("${SCOUT_NODE}" -e 'if (require("node:fs").existsSync(".env")
   show_error "Не удалось прочитать настройки. Проверьте PORT в файле .env: нужен номер от 1 до 65535."
   exit 1
 fi
-SCOUT_URL="http://127.0.0.1:${SCOUT_PORT}/"
+SCOUT_PUBLIC_URL="http://jobs-checker.localhost/"
+SCOUT_INTERNAL_URL="http://127.0.0.1:${SCOUT_PORT}/"
 
 server_ready() {
-  /usr/bin/curl -fsS --max-time 1 "${SCOUT_URL}api/health" 2>/dev/null |
+  /usr/bin/curl -fsS --max-time 1 "${SCOUT_INTERNAL_URL}api/health" 2>/dev/null |
     "${SCOUT_NODE}" -e 'try { const h = JSON.parse(require("node:fs").readFileSync(0, "utf8")); process.exit(h.ok === true && h.application === "scout-local" && h.workspace === process.argv[1] ? 0 : 1); } catch { process.exit(1); }' "${SCOUT_ROOT}"
 }
 
