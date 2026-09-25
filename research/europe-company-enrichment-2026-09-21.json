@@ -1,0 +1,1015 @@
+{
+  "checkedAt": "2026-09-21",
+  "companies": [
+    {
+      "name": "Preply",
+      "description": "Платформа для индивидуального изучения языков с онлайн-преподавателями. Соединяет учеников и репетиторов и развивает инструменты для занятий, подписки и персонализированного обучения.",
+      "companyType": "edtech",
+      "sizeCategory": "growth",
+      "size": "700+ сотрудников, карьерная страница; репетиторы платформы не включены.",
+      "checkedAt": "2026-09-21",
+      "workModes": ["hybrid"],
+      "dataDrivenScore": 9,
+      "dataDrivenEvidence": "В текущих продуктовых ролях есть A/B-тесты, статистика, работа с PM и общий Data Chapter. Аналитика участвует в выборе продуктовых решений; качество конкретной команды стоит проверить на интервью.",
+      "origins": [
+        {
+          "label": "Подборка в чате",
+          "url": ""
+        },
+        {
+          "label": "Ashby",
+          "url": "https://jobs.ashbyhq.com/preply/b208c4e1-8b65-412f-af09-aeb53c8f6fbd"
+        }
+      ],
+      "evidenceUrls": [
+        "https://preply.com/en/careers",
+        "https://jobs.ashbyhq.com/preply/b208c4e1-8b65-412f-af09-aeb53c8f6fbd",
+        "https://jobs.ashbyhq.com/preply/e41db749-c3d2-4735-863c-087df45e4866",
+        "https://jobs.ashbyhq.com/preply/56258789-bb1b-452a-8353-a352099d6e9f",
+        "https://jobs.ashbyhq.com/preply/ee802349-20a3-416a-9b02-a7e863b8d9ad"
+      ]
+    },
+    {
+      "name": "Nexthink",
+      "description": "Создаёт корпоративную платформу Digital Employee Experience. IT-команды используют её для наблюдения за работой устройств и приложений, поиска проблем и автоматизации исправлений.",
+      "companyType": "saas",
+      "sizeCategory": "large",
+      "size": "Более 1 000 сотрудников; официальный ESG-отчёт.",
+      "checkedAt": "2026-09-21",
+      "workModes": ["hybrid"],
+      "dataDrivenScore": 8,
+      "dataDrivenEvidence": "Product Intelligence связывает пользовательские данные и метрики с продуктовой стратегией. Сильная техническая среда; аналитическая функция в найденной роли развивается, зрелость экспериментов подтверждена слабее.",
+      "origins": [
+        {
+          "label": "Подборка в чате",
+          "url": ""
+        },
+        {
+          "label": "SmartRecruiters",
+          "url": "https://jobs.smartrecruiters.com/Nexthink/744000150389449-data-analytics-lead-product-intelligence-"
+        }
+      ],
+      "evidenceUrls": [
+        "https://nexthink.com/esg-report",
+        "https://jobs.smartrecruiters.com/Nexthink/744000150389449-data-analytics-lead-product-intelligence-"
+      ]
+    },
+    {
+      "name": "Scopely",
+      "description": "Разработчик и издатель мобильных игр, включая MONOPOLY GO! и Star Trek Fleet Command. Развивает долгоживущие игровые продукты и общую технологическую платформу Playgami.",
+      "companyType": "gaming",
+      "sizeCategory": "large",
+      "size": "3 000+ сотрудников, официальная публикация к 15-летию в 2026 году.",
+      "checkedAt": "2026-09-21",
+      "workModes": ["hybrid"],
+      "dataDrivenScore": 9,
+      "dataDrivenEvidence": "Продуктовая аналитика, экспериментальные решения и общая технологическая платформа поддерживают live-игры. В актуальных ролях есть аналитики и инженеры данных, влияние на метрики и игровую экономику.",
+      "origins": [
+        {
+          "label": "Подборка в чате",
+          "url": ""
+        },
+        {
+          "label": "Greenhouse",
+          "url": "https://job-boards.greenhouse.io/scopely/jobs/5285387008"
+        }
+      ],
+      "evidenceUrls": [
+        "https://www.scopely.com/en/news/scopely-at-15-celebrating-a-milestone-anniversary-and-the-power-of-play",
+        "https://job-boards.greenhouse.io/scopely/jobs/5285387008",
+        "https://job-boards.greenhouse.io/scopely/jobs/5283492008",
+        "https://job-boards.greenhouse.io/scopely/jobs/5212408008",
+        "https://www.scopely.com/en/news/scopelean-spotlight-eve-espindola"
+      ]
+    },
+    {
+      "name": "King",
+      "description": "Создатель мобильных игр Candy Crush и Farm Heroes Saga. Развивает массовые игровые продукты с регулярным контентом, внутриигровыми покупками и длительным жизненным циклом.",
+      "companyType": "gaming",
+      "sizeCategory": "large",
+      "size": "Диапазон 1 001–5 000 указан компанией в LinkedIn; относится к King, не всему Microsoft.",
+      "checkedAt": "2026-09-21",
+      "workModes": [],
+      "dataDrivenScore": 9,
+      "dataDrivenEvidence": "Текущая Senior Product Analyst роль описывает полный цикл экспериментов, продуктовую стратегию и сотрудничество внутри аналитического сообщества. Большой масштаб пользователей даёт среду для измерения поведения и игровых механик.",
+      "origins": [
+        {
+          "label": "Подборка в чате",
+          "url": ""
+        },
+        {
+          "label": "Workday",
+          "url": "https://xboxgaming.wd1.myworkdayjobs.com/en-US/King_External_Careers/job/Senior-Product-Analyst_R028162-1"
+        }
+      ],
+      "evidenceUrls": [
+        "https://www.linkedin.com/company/king",
+        "https://xboxgaming.wd1.myworkdayjobs.com/en-US/King_External_Careers/job/Senior-Product-Analyst_R028162-1"
+      ]
+    },
+    {
+      "name": "Rover",
+      "description": "Маркетплейс услуг для владельцев домашних животных. Помогает находить ситтеров и выгульщиков, бронировать уход и проводить оплату через приложение.",
+      "companyType": "marketplace",
+      "sizeCategory": "growth",
+      "size": "501–1 000 сотрудников по странице компании в LinkedIn; ситтеры не считаются штатной командой.",
+      "checkedAt": "2026-09-21",
+      "workModes": ["hybrid"],
+      "dataDrivenScore": 8,
+      "dataDrivenEvidence": "В найденной продуктовой роли есть эксперименты, SQL/dbt, PM-партнёрство и работа с поведением пользователей маркетплейса. Сильные признаки практической продуктовой аналитики.",
+      "origins": [
+        {
+          "label": "Подборка в чате",
+          "url": ""
+        },
+        {
+          "label": "Lever",
+          "url": "https://jobs.lever.co/rover/966abd0e-14d3-42ba-93e8-fe24fd4c8938"
+        }
+      ],
+      "evidenceUrls": [
+        "https://www.linkedin.com/company/roverdotcom",
+        "https://jobs.lever.co/rover/966abd0e-14d3-42ba-93e8-fe24fd4c8938",
+        "https://jobs.lever.co/rover/39b3862d-7873-404c-8dc1-f95664ca5882"
+      ]
+    },
+    {
+      "name": "Pennylane",
+      "description": "Французская B2B-платформа бухгалтерского учёта и управления финансами. Объединяет работу предпринимателей и бухгалтеров: счета, платежи, расходы и финансовые данные.",
+      "companyType": "fintech",
+      "sizeCategory": "large",
+      "size": "Более 1 000 сотрудников, страница для инвесторов в 2026 году.",
+      "checkedAt": "2026-09-21",
+      "workModes": ["remote"],
+      "dataDrivenScore": 8,
+      "dataDrivenEvidence": "Выделенная продуктовая аналитика внутри большого Data-департамента и прямое взаимодействие с PM. Глубину статистики и регулярность A/B-тестов нужно уточнить: наличие data-команды само по себе их не доказывает.",
+      "origins": [
+        {
+          "label": "Подборка в чате",
+          "url": ""
+        },
+        {
+          "label": "Ashby",
+          "url": "https://jobs.ashbyhq.com/pennylane/56edd251-e7d2-483f-a6a0-e2acb7cb8fcf"
+        }
+      ],
+      "evidenceUrls": [
+        "https://www.pennylane.com/fr/investisseurs",
+        "https://jobs.ashbyhq.com/pennylane/56edd251-e7d2-483f-a6a0-e2acb7cb8fcf"
+      ],
+      "location": "Paris, France; Remote Europe"
+    },
+    {
+      "name": "Grafana Labs",
+      "description": "Развивает Grafana и облачную платформу наблюдаемости за IT-системами. Продукты помогают командам работать с метриками, логами и трассировками и расследовать сбои.",
+      "companyType": "saas",
+      "sizeCategory": "large",
+      "size": "1 600+ сотрудников, официальная карьерная страница.",
+      "checkedAt": "2026-09-21",
+      "workModes": ["remote"],
+      "dataDrivenScore": 8,
+      "dataDrivenEvidence": "В текущей Staff-роли — отдельное Product Analytics направление, измерение использования продукта, стандарты данных и эксперименты. Высокая техническая планка; роль требует самостоятельности уровня Staff.",
+      "origins": [
+        {
+          "label": "Подборка в чате",
+          "url": ""
+        },
+        {
+          "label": "Greenhouse",
+          "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6107541004"
+        }
+      ],
+      "evidenceUrls": [
+        "https://grafana.com/about/careers/",
+        "https://job-boards.greenhouse.io/grafanalabs/jobs/6107541004"
+      ],
+      "location": "Распределённая команда · Europe"
+    },
+    {
+      "name": "Wallapop",
+      "description": "Маркетплейс для покупки и продажи подержанных вещей. Соединяет продавцов и покупателей, добавляя к объявлениям коммуникацию, оплату и доставку.",
+      "companyType": "marketplace",
+      "sizeCategory": "growth",
+      "size": "201–500 сотрудников по странице компании в LinkedIn.",
+      "checkedAt": "2026-09-21",
+      "workModes": ["hybrid"],
+      "dataDrivenScore": 9,
+      "dataDrivenEvidence": "Staff Product Analyst отвечает за экспериментальные стандарты и причинные оценки: CUPED, квазиэксперименты и эффекты маркетплейса. Есть методологическая работа и обучение продуктовых команд.",
+      "origins": [
+        {
+          "label": "Подборка в чате",
+          "url": ""
+        },
+        {
+          "label": "Greenhouse",
+          "url": "https://job-boards.eu.greenhouse.io/wallapop/jobs/4917916101"
+        }
+      ],
+      "evidenceUrls": [
+        "https://www.linkedin.com/company/wallapop",
+        "https://job-boards.eu.greenhouse.io/wallapop/jobs/4917916101"
+      ]
+    },
+    {
+      "name": "Glovo",
+      "description": "Платформа доставки из ресторанов, супермаркетов и локальных магазинов. Соединяет покупателей, партнёров и курьеров в многосоставном городском маркетплейсе.",
+      "companyType": "marketplace",
+      "sizeCategory": "large",
+      "size": "1 001–5 000 по корпоративной странице LinkedIn; размер офисной команды, без подсчёта всей курьерской сети.",
+      "checkedAt": "2026-09-21",
+      "workModes": ["hybrid"],
+      "dataDrivenScore": 9,
+      "dataDrivenEvidence": "Актуальная аналитическая роль Rider Experience описывает A/B- и switchback-тесты, метрики и экономику выплат. Сильная среда для causal и marketplace analytics; конкретный фокус зависит от подразделения.",
+      "origins": [
+        {
+          "label": "Подборка в чате",
+          "url": ""
+        },
+        {
+          "label": "SmartRecruiters",
+          "url": "https://jobs.smartrecruiters.com/DeliveryHero/744000150648659-data-analyst-ii-rider-experience"
+        }
+      ],
+      "evidenceUrls": [
+        "https://www.linkedin.com/company/glovo-app/",
+        "https://jobs.smartrecruiters.com/DeliveryHero/744000150648659-data-analyst-ii-rider-experience",
+        "https://careers.glovoapp.com/"
+      ]
+    },
+    {
+      "name": "MediaMarktSaturn",
+      "description": "Европейская розничная группа электроники MediaMarkt и Saturn. Развивает магазины, e-commerce, доставку и цифровые сервисы; технологические команды строят общие продукты для каналов продаж.",
+      "companyType": "retail",
+      "sizeCategory": "enterprise",
+      "size": "Более 5 000 сотрудников в группе; официальный sustainability report. Технологический хаб значительно меньше всей розничной сети.",
+      "checkedAt": "2026-09-21",
+      "workModes": ["hybrid"],
+      "dataDrivenScore": 8,
+      "dataDrivenEvidence": "Оценка относится к Digital Sales/Data Foundation: аналитики, инженеры и Product Owner работают над метриками и экспериментами. В найденной роли много технического tracking; это не оценка всей розничной организации.",
+      "origins": [
+        {
+          "label": "Подборка в чате",
+          "url": ""
+        },
+        {
+          "label": "Карьерный сайт",
+          "url": "https://careers.mediamarktsaturn.com/MediaMarktES/job/Barcelona-Experienced-Data-Analyst-Digital-Sales-(mfd)-8003/1432639133/"
+        }
+      ],
+      "evidenceUrls": [
+        "https://www.mediamarktsaturn.com/sites/default/files/2025-02/CECONOMY_Sustainability%20report_FY%202023_24.pdf",
+        "https://careers.mediamarktsaturn.com/MediaMarktES/job/Barcelona-Experienced-Data-Analyst-Digital-Sales-(mfd)-8003/1432639133/"
+      ]
+    },
+    {
+      "name": "Labhouse",
+      "description": "Небольшая студия приложений из Барселоны. Создаёт мобильные и AI-инструменты для повседневных задач и малого бизнеса, включая работу с документами, встречами и коммуникацией.",
+      "companyType": "consumer",
+      "sizeCategory": "small",
+      "size": "11–50 сотрудников по корпоративной странице LinkedIn; сайт описывает небольшую команду.",
+      "checkedAt": "2026-09-21",
+      "workModes": ["hybrid"],
+      "dataDrivenScore": 6,
+      "dataDrivenEvidence": "Есть прямое влияние на продукт и работа с CEO, но развитое аналитическое сообщество и общие экспериментальные стандарты не подтверждены. Совмещённая PM/аналитическая роль ближе к самостоятельному построению практики.",
+      "origins": [
+        {
+          "label": "Подборка в чате",
+          "url": ""
+        },
+        {
+          "label": "Ashby",
+          "url": "https://jobs.ashbyhq.com/labhouse/42a27830-173f-4748-807f-5e0b1c297b97"
+        }
+      ],
+      "evidenceUrls": [
+        "https://www.linkedin.com/company/labhouse",
+        "https://jobs.ashbyhq.com/labhouse/42a27830-173f-4748-807f-5e0b1c297b97"
+      ]
+    },
+    {
+      "name": "FREENOW",
+      "description": "Европейское приложение для заказа такси и городской мобильности. Объединяет поездки для частных клиентов и корпоративные транспортные сервисы.",
+      "companyType": "marketplace",
+      "sizeCategory": "growth",
+      "size": "501–1 000 сотрудников по странице Freenow в LinkedIn, без всей группы Lyft.",
+      "checkedAt": "2026-09-21",
+      "workModes": [],
+      "dataDrivenScore": 7,
+      "dataDrivenEvidence": "Бизнес хорошо подходит для продуктовых и marketplace-исследований. Текущая проверенная аналитическая роль преимущественно операционная; сила конкретной product analytics команды пока подтверждена ограниченно.",
+      "origins": [
+        {
+          "label": "Подборка в чате",
+          "url": ""
+        },
+        {
+          "label": "Greenhouse",
+          "url": "https://job-boards.greenhouse.io/freenow"
+        }
+      ],
+      "evidenceUrls": [
+        "https://www.linkedin.com/company/freenow",
+        "https://job-boards.greenhouse.io/freenow",
+        "https://job-boards.greenhouse.io/freenow/jobs/8010239"
+      ],
+      "location": "Hamburg, Germany; Barcelona, Spain"
+    },
+    {
+      "name": "N26",
+      "description": "Европейский цифровой банк с управлением счётом через мобильное приложение. Предлагает банковские карты, платежи и дополнительные финансовые продукты для частных клиентов.",
+      "companyType": "fintech",
+      "sizeCategory": "large",
+      "size": "Более 1 600 сотрудников, официальная страница команды.",
+      "checkedAt": "2026-09-21",
+      "workModes": ["hybrid"],
+      "dataDrivenScore": 8,
+      "dataDrivenEvidence": "Есть выделенная data-функция и продуктовые команды цифрового банка. Оценка предварительная: ранее найденные Product Analyst вакансии закрыты; текущую команду, ownership и практику экспериментов проверять по новой роли.",
+      "origins": [
+        {
+          "label": "Подборка в чате",
+          "url": ""
+        },
+        {
+          "label": "Карьерный сайт",
+          "url": "https://n26.com/en-eu/careers"
+        }
+      ],
+      "evidenceUrls": ["https://n26.com/en-eu/team", "https://n26.com/en-eu/careers"]
+    },
+    {
+      "name": "Typeform",
+      "description": "B2B-сервис для создания интерактивных форм, опросов и квизов. Помогает компаниям собирать ответы и заявки и передавать данные в CRM и другие рабочие инструменты.",
+      "companyType": "saas",
+      "sizeCategory": "growth",
+      "size": "201–500 сотрудников по странице компании в LinkedIn.",
+      "checkedAt": "2026-09-21",
+      "workModes": [],
+      "dataDrivenScore": 7,
+      "dataDrivenEvidence": "Self-service SaaS с задачами активации, конверсии и монетизации релевантен профилю. Оценка предварительная по продукту и прошлым ролям: текущая вакансия Product Analyst и зрелость её команды не подтверждены.",
+      "origins": [
+        {
+          "label": "Подборка в чате",
+          "url": ""
+        },
+        {
+          "label": "Greenhouse",
+          "url": "https://job-boards.greenhouse.io/typeform"
+        }
+      ],
+      "evidenceUrls": [
+        "https://www.linkedin.com/company/typeform-",
+        "https://job-boards.greenhouse.io/typeform"
+      ],
+      "location": "Распределённая команда · Europe"
+    },
+    {
+      "name": "Docplanner",
+      "description": "Медицинский маркетплейс и программная платформа для врачей и клиник. Помогает пациентам найти специалиста и записаться на приём, а клиникам — управлять расписанием и взаимодействием с пациентами.",
+      "companyType": "healthtech",
+      "sizeCategory": "large",
+      "size": "2 800+ сотрудников, официальный сайт группы.",
+      "checkedAt": "2026-09-21",
+      "workModes": [],
+      "dataDrivenScore": 8,
+      "dataDrivenEvidence": "Продуктовый маркетплейс с выделенными data-командами; прежние продуктовые роли включали анализ пациентского пути. Оценка предварительная: текущая проверенная DS-роль ориентирована на production ML, подходящий PA не подтверждён.",
+      "origins": [
+        {
+          "label": "Подборка в чате",
+          "url": ""
+        },
+        {
+          "label": "Ashby",
+          "url": "https://jobs.ashbyhq.com/Docplanner"
+        }
+      ],
+      "evidenceUrls": ["https://www.docplanner.com/", "https://jobs.ashbyhq.com/Docplanner"]
+    },
+    {
+      "name": "Perk",
+      "description": "Платформа управления командировками и корпоративными расходами, ранее TravelPerk. Объединяет бронирования поездок, расходы, счета и карточные платежи с политиками и контролем бюджета.",
+      "companyType": "saas",
+      "sizeCategory": "large",
+      "size": "1 800+ сотрудников, официальное сообщение о ребрендинге в ноябре 2025 года.",
+      "checkedAt": "2026-09-21",
+      "workModes": [],
+      "dataDrivenScore": 7,
+      "dataDrivenEvidence": "Зрелый B2B-продукт с измеримыми сценариями бронирований и расходов. Для оценки экспериментальной культуры конкретного направления пока недостаточно актуальных деталей; подходящий Product Analyst в прошлой проверке не найден.",
+      "origins": [
+        {
+          "label": "Подборка в чате",
+          "url": ""
+        },
+        {
+          "label": "Карьерный сайт",
+          "url": "https://www.perk.com/"
+        }
+      ],
+      "evidenceUrls": [
+        "https://www.perk.com/press-release/travelperk-rebrands-to-perk-the-intelligent-platform-powering-real-work/",
+        "https://www.perk.com/",
+        "https://jobs.ashbyhq.com/perk"
+      ],
+      "location": "London, UK; Barcelona, Spain; Boston, USA"
+    },
+    {
+      "name": "Manychat",
+      "description": "B2B-платформа автоматизации общения с клиентами в мессенджерах и социальных сетях. Помогает брендам и авторам собирать лиды, отвечать аудитории и превращать диалоги в продажи.",
+      "companyType": "saas",
+      "sizeCategory": "growth",
+      "size": "400+ сотрудников по описанию компании в текущей вакансии.",
+      "checkedAt": "2026-09-21",
+      "workModes": ["hybrid"],
+      "dataDrivenScore": 8,
+      "dataDrivenEvidence": "Отдельная Product Analytics team, взаимодействие с PM/Design/Engineering, KPI-деревья, roadmap и data literacy. Для текущей роли глубокие эксперименты описаны менее строго, чем в наиболее зрелых экспериментальных командах.",
+      "origins": [
+        {
+          "label": "Подборка в чате",
+          "url": ""
+        },
+        {
+          "label": "Ashby",
+          "url": "https://jobs.ashbyhq.com/manychat/db287340-3b29-45db-955c-047cf6bd1dd2"
+        }
+      ],
+      "evidenceUrls": [
+        "https://jobs.ashbyhq.com/manychat/db287340-3b29-45db-955c-047cf6bd1dd2",
+        "https://careers.manychat.com/positions",
+        "https://careers.manychat.com/team/product-management"
+      ],
+      "notes": "Проверено 21.09.2026. Интересен по growth, монетизации и продуктовой аналитике SaaS. На текущем карьерном сайте Senior Product Analyst указан для Амстердама; подходящая текущая product analytics позиция в Испании не подтверждена. В Барселоне есть маркетинговое направление, требующее отдельного отбора. Условия релокации зависят от конкретной роли.\nИсточники / карьера:\nhttps://careers.manychat.com/positions\nhttps://careers.manychat.com/team/product-management\n\nАктуализация 2026-09-21: в европейскую подборку добавлена действующая Senior Product Analyst. Amsterdam / Barcelona; для этой роли прямо исключена релокация."
+    },
+    {
+      "name": "Photoroom",
+      "description": "Создаёт AI-инструменты для редактирования изображений и подготовки товарных фотографий. Продукт помогает интернет-магазинам и продавцам быстро получать визуалы через приложение, веб-интерфейс и API.",
+      "companyType": "saas",
+      "sizeCategory": "medium",
+      "size": "100+ сотрудников по текущей вакансии; ориентировочная категория 51–200.",
+      "checkedAt": "2026-09-21",
+      "workModes": ["hybrid"],
+      "dataDrivenScore": 8,
+      "dataDrivenEvidence": "В Senior Product Analyst роли требуются A/B-тесты, дизайн экспериментов, когорты, SQL/Python и событийная таксономия. Продуктовая аналитическая функция формируется, поэтому это возможность строить практику, а не гарантированно зрелая большая команда.",
+      "origins": [
+        {
+          "label": "Подборка в чате",
+          "url": ""
+        },
+        {
+          "label": "Ashby",
+          "url": "https://jobs.ashbyhq.com/photoroom/9c814622-9cd2-4e2e-a060-b9491ef058eb"
+        }
+      ],
+      "evidenceUrls": ["https://jobs.ashbyhq.com/photoroom/9c814622-9cd2-4e2e-a060-b9491ef058eb"],
+      "notes": "Проверено 21.09.2026. Сильное содержательное совпадение: SQL, Python, A/B-тесты, retention и влияние на PM/Design. Текущий Senior Product Analyst находится в Париже; старые объявления с Барселоной не подтверждены. В вакансии есть релокация до €10 000 и визовая поддержка для Франции, а не переезда в Испанию. Вакансия не импортирована из-за географии; рассмотреть только при расширении стран.\nИсточники / карьера:\nhttps://jobs.ashbyhq.com/photoroom/9c814622-9cd2-4e2e-a060-b9491ef058eb\n\nАктуализация 2026-09-21: в европейскую подборку добавлена действующая Senior Product Analyst. Paris, hybrid; помощь с переездом во Францию и визой указана в вакансии."
+    },
+    {
+      "name": "Wise",
+      "description": "Финтех-платформа международных переводов и мультивалютных счетов. Работает с частными клиентами, бизнесом и партнёрами, которые встраивают платёжную инфраструктуру Wise в свои продукты.",
+      "companyType": "fintech",
+      "sizeCategory": "enterprise",
+      "size": "6 522 сотрудника на 31.03.2025 по годовому отчёту; используется широкая категория, не точное число на сегодня.",
+      "checkedAt": "2026-09-21",
+      "workModes": [],
+      "dataDrivenScore": 9,
+      "dataDrivenEvidence": "Product Analyst в европейских продуктовых командах влияет на решения, метрики и рост. Сильное соответствие SQL/продуктовому ownership; условия и актуальность конкретной новой вакансии требуют отдельной проверки.",
+      "origins": [
+        {
+          "label": "Подборка в чате",
+          "url": ""
+        },
+        {
+          "label": "Карьерный сайт",
+          "url": "https://wise.jobs/"
+        }
+      ],
+      "evidenceUrls": [
+        "https://wise.com/imaginary-v2/images/ad736416f90791dbb49c7e59f1f45d8d-WiseFY2025AnnualReportAccounts.pdf",
+        "https://wise.jobs/",
+        "https://wise.jobs/job/senior-product-analyst-regional-expansion-in-london-jid-2206"
+      ]
+    },
+    {
+      "name": "Spotify",
+      "description": "Аудиоплатформа для прослушивания музыки, подкастов и аудиокниг. Развивает подписку, рекламные продукты и инструменты для авторов, объединяя контент, персонализацию и рекомендации.",
+      "companyType": "consumer",
+      "sizeCategory": "enterprise",
+      "size": "5 001–10 000 сотрудников по корпоративной странице LinkedIn.",
+      "checkedAt": "2026-09-21",
+      "workModes": [],
+      "dataDrivenScore": 9,
+      "dataDrivenEvidence": "Официальные инженерные публикации описывают масштабную платформу экспериментов и разделение experimentation/personalization. Это сильное свидетельство инфраструктуры; продуктовый фокус и влияние аналитика нужно уточнять в конкретной команде.",
+      "origins": [
+        {
+          "label": "Подборка в чате",
+          "url": ""
+        },
+        {
+          "label": "Карьерный сайт",
+          "url": "https://lifeatspotify.com/jobs"
+        }
+      ],
+      "evidenceUrls": [
+        "https://www.linkedin.com/company/spotify",
+        "https://lifeatspotify.com/jobs",
+        "https://www.engineering.atspotify.com/2026/1/why-we-use-separate-tech-stacks-for-personalization-and-experimentation"
+      ]
+    },
+    {
+      "name": "Booking.com",
+      "description": "Платформа бронирования жилья и других туристических услуг. Соединяет путешественников с объектами размещения и развивает поиск, выбор, оплату и сопровождение поездок.",
+      "companyType": "marketplace",
+      "sizeCategory": "enterprise",
+      "size": "10 001+ сотрудников по корпоративной странице LinkedIn.",
+      "checkedAt": "2026-09-21",
+      "workModes": [],
+      "dataDrivenScore": 9,
+      "dataDrivenEvidence": "Публичные материалы Booking.ai и продуктовая модель указывают на развитые эксперименты, data science и измерение конверсии. Оценка инфраструктуры и среды, не гарантия одинакового ownership во всех подразделениях.",
+      "origins": [
+        {
+          "label": "Подборка в чате",
+          "url": ""
+        },
+        {
+          "label": "Карьерный сайт",
+          "url": "https://jobs.booking.com/"
+        }
+      ],
+      "evidenceUrls": [
+        "https://www.linkedin.com/company/booking.com",
+        "https://jobs.booking.com/",
+        "https://booking.ai/"
+      ]
+    },
+    {
+      "name": "Google",
+      "description": "Технологическая компания, развивающая поиск, YouTube, Android, рекламные и облачные продукты. Работает с массовыми пользовательскими сервисами и корпоративной инфраструктурой.",
+      "companyType": "consumer",
+      "sizeCategory": "enterprise",
+      "size": "10 001+ сотрудников по странице Google в LinkedIn; широкая категория без попытки оценить текущую численность.",
+      "checkedAt": "2026-09-21",
+      "workModes": [],
+      "dataDrivenScore": 9,
+      "dataDrivenEvidence": "Публичные исследования описывают инфраструктуру параллельных экспериментов и сильную статистическую практику. Источники частично исторические; роль может называться Product Data Scientist или Quantitative Analyst и требует проверки задач.",
+      "origins": [
+        {
+          "label": "Подборка в чате",
+          "url": ""
+        },
+        {
+          "label": "Карьерный сайт",
+          "url": "https://www.google.com/about/careers/applications/"
+        }
+      ],
+      "evidenceUrls": [
+        "https://www.linkedin.com/company/google",
+        "https://www.google.com/about/careers/applications/",
+        "https://research.google/pubs/overlapping-experiment-infrastructure-more-better-faster-experimentation/"
+      ],
+      "location": "London, UK; Dublin, Ireland; Zurich, Switzerland; Amsterdam, Netherlands"
+    },
+    {
+      "name": "Meta",
+      "description": "Развивает Facebook, Instagram, WhatsApp и другие коммуникационные продукты. Основной бизнес сочетает пользовательские платформы и рекламу; также компания строит AI- и XR-технологии.",
+      "companyType": "consumer",
+      "sizeCategory": "enterprise",
+      "size": "10 001+ сотрудников по корпоративной странице LinkedIn.",
+      "checkedAt": "2026-09-21",
+      "workModes": [],
+      "dataDrivenScore": 9,
+      "dataDrivenEvidence": "Публичные материалы описывают продуктовые data science команды, влияние на метрики и решения в большом масштабе. Источники частично исторические; оценка не заменяет проверку текущего направления и обязанностей конкретной роли.",
+      "origins": [
+        {
+          "label": "Подборка в чате",
+          "url": ""
+        },
+        {
+          "label": "Карьерный сайт",
+          "url": "https://www.metacareers.com/"
+        }
+      ],
+      "evidenceUrls": [
+        "https://www.linkedin.com/company/meta",
+        "https://www.metacareers.com/",
+        "https://engineering.fb.com/2018/06/12/core-infra/building-data-science-teams-to-have-an-impact-at-scale/"
+      ],
+      "location": "London, UK; Paris, France; Zurich, Switzerland; Madrid, Spain"
+    },
+    {
+      "name": "Hostinger",
+      "website": "https://www.hostinger.com/",
+      "industry": "B2B SaaS · hosting & online business",
+      "location": "Vilnius / Kaunas, Lithuania; Luxembourg",
+      "workModes": ["remote"],
+      "description": "Платформа для создания и размещения сайтов и ведения онлайн-бизнеса. Объединяет хостинг, домены, веб-конструктор, бизнес-почту и инструменты продвижения с AI-функциями.",
+      "companyType": "saas",
+      "sizeCategory": "large",
+      "size": "1 000+ сотрудников на официальной странице About; широкая категория 1 001–5 000.",
+      "checkedAt": "2026-09-21",
+      "dataDrivenScore": 8,
+      "dataDrivenEvidence": "В текущей роли есть Product Analysis Team Lead, отдельная Data Platform команда, SQL/Amplitude, A/B-тесты и влияние на продуктовые решения. Есть аналитические коллеги и обучение, включая Reforge.",
+      "origins": [
+        {
+          "label": "Подборка в чате",
+          "url": ""
+        },
+        {
+          "label": "Ashby",
+          "url": "https://jobs.ashbyhq.com/hostinger/7e22c963-6033-43e1-a0ad-f107256d2069"
+        }
+      ],
+      "evidenceUrls": [
+        "https://www.hostinger.com/about",
+        "https://jobs.ashbyhq.com/hostinger/7e22c963-6033-43e1-a0ad-f107256d2069"
+      ]
+    },
+    {
+      "name": "SumUp",
+      "website": "https://www.sumup.com/",
+      "industry": "B2B fintech · payments",
+      "location": "London, UK; Sofia, Bulgaria",
+      "workModes": ["onsite"],
+      "description": "Финтех-компания с платёжными и финансовыми инструментами для малого бизнеса. Развивает эквайринг, POS-решения, счета и приложения для продавцов и покупателей.",
+      "companyType": "fintech",
+      "sizeCategory": "large",
+      "size": "3 000+ сотрудников, текущие вакансии работодателя.",
+      "checkedAt": "2026-09-21",
+      "dataDrivenScore": 8,
+      "dataDrivenEvidence": "Аналитики работают с Product/Design/Engineering и Analytics Engineers, отвечают за KPI и эксперименты. Consumer Growth ближе к end-to-end продуктовой аналитике; Payments в Софии сильнее ориентирована на BI и storytelling.",
+      "origins": [
+        {
+          "label": "Подборка в чате",
+          "url": ""
+        },
+        {
+          "label": "Карьерный сайт",
+          "url": "https://sumup.com/careers/positions/8559467002"
+        }
+      ],
+      "evidenceUrls": [
+        "https://sumup.com/careers/positions/8827402002",
+        "https://sumup.com/careers/positions/8559467002"
+      ]
+    },
+    {
+      "name": "Grover",
+      "website": "https://www.grover.com/",
+      "industry": "B2C / B2B · tech subscriptions",
+      "location": "Berlin, Germany",
+      "workModes": ["hybrid"],
+      "description": "Сервис подписки и аренды электроники для людей и бизнеса. Предлагает устройства на гибких условиях, возвращает их в оборот после использования и развивает управление корпоративной техникой.",
+      "companyType": "consumer",
+      "sizeCategory": "growth",
+      "size": "201–500 сотрудников по корпоративной странице LinkedIn; категория ориентировочная.",
+      "checkedAt": "2026-09-21",
+      "dataDrivenScore": 8,
+      "dataDrivenEvidence": "Прямое подчинение Product Director, партнёрство с Data Platform, владение A/B-тестами в Eppo и acquisition/retention. Сильные конкретные признаки; размер аналитической команды и поддержка опытных коллег требуют уточнения.",
+      "origins": [
+        {
+          "label": "Подборка в чате",
+          "url": ""
+        },
+        {
+          "label": "Greenhouse",
+          "url": "https://job-boards.greenhouse.io/grover/jobs/7727055003"
+        }
+      ],
+      "evidenceUrls": [
+        "https://www.linkedin.com/company/grover",
+        "https://job-boards.greenhouse.io/grover/jobs/7727055003"
+      ]
+    },
+    {
+      "name": "HelloFresh",
+      "website": "https://www.hellofreshgroup.com/",
+      "industry": "B2C foodtech · subscriptions",
+      "location": "Berlin, Germany; Warsaw, Poland",
+      "workModes": [],
+      "description": "Группа сервисов доставки наборов продуктов и готовых блюд по подписке. Цифровые продукты поддерживают выбор меню, заказы, персонализацию и логистику; общую технологическую платформу развивает HelloTech.",
+      "companyType": "retail",
+      "sizeCategory": "enterprise",
+      "size": "18 000+ сотрудников группы по официальному сайту; HelloTech — более 1 000, согласно текущей вакансии.",
+      "checkedAt": "2026-09-21",
+      "dataDrivenScore": 9,
+      "dataDrivenEvidence": "HelloTech описывает автономные продуктовые команды; Consumer Analytics — A/B-тесты, KPI-деревья, web/app-поведение, SQL/Python и PM/UX/Engineering. Оценка относится к цифровому продукту, а не всем операционным подразделениям группы.",
+      "origins": [
+        {
+          "label": "Подборка в чате",
+          "url": ""
+        },
+        {
+          "label": "Карьерный сайт",
+          "url": "https://careers.hellofresh.com/global/en/job/7653269"
+        }
+      ],
+      "evidenceUrls": [
+        "https://www.hellofreshgroup.com/",
+        "https://careers.hellofresh.com/global/en/job/7653269"
+      ]
+    },
+    {
+      "name": "GoCardless",
+      "website": "https://gocardless.com/",
+      "industry": "B2B fintech · bank payments",
+      "location": "London, UK; Lisbon, Portugal; Riga, Latvia",
+      "workModes": ["hybrid"],
+      "description": "B2B-платформа банковских платежей для регулярных и разовых списаний. Помогает компаниям принимать и управлять платежами через Direct Debit, open banking и связанные финансовые инструменты.",
+      "companyType": "fintech",
+      "sizeCategory": "growth",
+      "size": "806 сотрудников на апрель 2025 года, цифра приведена в текущей вакансии; относится к GoCardless, не всей группе Mollie.",
+      "checkedAt": "2026-09-21",
+      "dataDrivenScore": 9,
+      "dataDrivenEvidence": "Сильные явные признаки: развитая Data-группа, владение экспериментами, влияние на roadmap, advanced SQL, Python/R, Amplitude/Looker, сегментация и LTV. Роль допускает самостоятельную методологическую работу и развитие data culture.",
+      "origins": [
+        {
+          "label": "Подборка в чате",
+          "url": ""
+        },
+        {
+          "label": "Greenhouse",
+          "url": "https://job-boards.greenhouse.io/gocardless/jobs/7938467"
+        }
+      ],
+      "evidenceUrls": ["https://job-boards.greenhouse.io/gocardless/jobs/7938467"]
+    },
+    {
+      "name": "KoboToolbox",
+      "description": "Некоммерческая организация, развивающая открытые инструменты сбора и анализа полевых данных. Платформа используется гуманитарными, исследовательскими и социальными организациями.",
+      "companyType": "nonprofit",
+      "sizeCategory": "small",
+      "size": "11–50, корпоративная страница LinkedIn.",
+      "website": "https://www.kobotoolbox.org/",
+      "location": "Cambridge, USA; распределённая команда",
+      "industry": "Некоммерческая · open-source data",
+      "checkedAt": "2026-09-21",
+      "workModes": ["remote"],
+      "dataDrivenScore": null,
+      "dataDrivenEvidence": "Описание и размер проверены. Публичных сведений об отдельной product analytics команде, владении экспериментами и влиянии аналитиков на roadmap недостаточно для честной оценки по шкале. Это существующая запись из Remotive, не новая рекомендация для профиля Product Analyst.",
+      "origins": [
+        {
+          "label": "Remotive",
+          "url": "https://remotive.com/remote-jobs/design/frontend-web-application-developer-2091141"
+        }
+      ],
+      "evidenceUrls": [
+        "https://www.linkedin.com/company/kobotoolbox",
+        "https://www.kobotoolbox.org/",
+        "https://remotive.com/remote-jobs/design/frontend-web-application-developer-2091141"
+      ]
+    },
+    {
+      "name": "Sanctuary Computer Inc",
+      "description": "Небольшая студия разработки цифровых продуктов и технических систем. Создаёт приложения, сайты и аппаратно-программные решения для клиентских команд.",
+      "companyType": "services",
+      "sizeCategory": "small",
+      "size": "11–50, корпоративная страница LinkedIn.",
+      "website": "https://www.sanctuary.computer/",
+      "location": "New York, USA; распределённая команда",
+      "industry": "B2B · услуги",
+      "checkedAt": "2026-09-21",
+      "workModes": ["remote"],
+      "dataDrivenScore": null,
+      "dataDrivenEvidence": "Описание и размер проверены. Публичных сведений об отдельной product analytics команде, владении экспериментами и влиянии аналитиков на roadmap недостаточно для честной оценки по шкале. Это существующая запись из Remotive, не новая рекомендация для профиля Product Analyst.",
+      "origins": [
+        {
+          "label": "Remotive",
+          "url": "https://remotive.com/remote-jobs/software-development/senior-shopify-developer-2091140"
+        }
+      ],
+      "evidenceUrls": [
+        "https://www.linkedin.com/company/sanctuary-computer",
+        "https://www.sanctuary.computer/",
+        "https://remotive.com/remote-jobs/software-development/senior-shopify-developer-2091140"
+      ]
+    },
+    {
+      "name": "hey contact heroes GmbH",
+      "description": "Поставщик аутсорсингового клиентского сервиса и back-office услуг. Организует распределённые команды поддержки, сочетая работу операторов и автоматизацию.",
+      "companyType": "services",
+      "sizeCategory": "growth",
+      "size": "501–1 000, корпоративная страница LinkedIn.",
+      "website": "https://www.hey-contact-heroes.de/",
+      "location": "Hamburg, Germany; распределённая команда",
+      "industry": "B2B · услуги",
+      "checkedAt": "2026-09-21",
+      "workModes": ["remote"],
+      "dataDrivenScore": null,
+      "dataDrivenEvidence": "Описание и размер проверены. Публичных сведений об отдельной product analytics команде, владении экспериментами и влиянии аналитиков на roadmap недостаточно для честной оценки по шкале. Это существующая запись из Remotive, не новая рекомендация для профиля Product Analyst.",
+      "origins": [
+        {
+          "label": "Remotive",
+          "url": "https://remotive.com/remote-jobs/customer-service/kundenservice-mobilfunk-inbound-innerhalb-der-eu-ausgenommen-deutschland-2091139"
+        }
+      ],
+      "evidenceUrls": [
+        "https://www.linkedin.com/company/hey-contact-heroes-gmbh",
+        "https://www.hey-contact-heroes.de/",
+        "https://remotive.com/remote-jobs/customer-service/kundenservice-mobilfunk-inbound-innerhalb-der-eu-ausgenommen-deutschland-2091139"
+      ]
+    },
+    {
+      "name": "Lemon.io",
+      "description": "Платформа подбора проверенных разработчиков для стартапов. Помогает заказчикам находить специалистов и организует работу с проектами и контрактами.",
+      "companyType": "services",
+      "sizeCategory": "medium",
+      "size": "51–200, корпоративная страница LinkedIn; не размер сети разработчиков.",
+      "website": "https://lemon.io/",
+      "location": "New York, USA; распределённая команда",
+      "industry": "B2B · услуги",
+      "checkedAt": "2026-09-21",
+      "workModes": ["remote"],
+      "dataDrivenScore": null,
+      "dataDrivenEvidence": "Описание и размер проверены. Публичных сведений об отдельной product analytics команде, владении экспериментами и влиянии аналитиков на roadmap недостаточно для честной оценки по шкале. Это существующая запись из Remotive, не новая рекомендация для профиля Product Analyst.",
+      "origins": [
+        {
+          "label": "Remotive",
+          "url": "https://remotive.com/remote-jobs/artificial-intelligence/senior-ai-engineer-2091131"
+        }
+      ],
+      "evidenceUrls": [
+        "https://www.linkedin.com/company/lemoneyeo",
+        "https://lemon.io/",
+        "https://remotive.com/remote-jobs/artificial-intelligence/senior-ai-engineer-2091131",
+        "https://remotive.com/remote-jobs/software-development/senior-net-full-stack-developer-2091130",
+        "https://remotive.com/remote-jobs/data/senior-data-scientist-2091129",
+        "https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091101",
+        "https://remotive.com/remote-jobs/qa/senior-qa-engineer-2091100",
+        "https://remotive.com/remote-jobs/devops/senior-devops-engineer-2091099"
+      ]
+    },
+    {
+      "name": "A.Team",
+      "description": "Платформа и сервис формирования команд для разработки цифровых и AI-продуктов. Соединяет компании со специалистами и помогает выполнять проекты внедрения технологий.",
+      "companyType": "services",
+      "sizeCategory": "medium",
+      "size": "51–200, корпоративная страница LinkedIn; не число участников платформы.",
+      "website": "https://www.a.team/",
+      "location": "New York, USA; Tel Aviv, Israel",
+      "industry": "B2B · услуги",
+      "checkedAt": "2026-09-21",
+      "workModes": ["remote"],
+      "dataDrivenScore": null,
+      "dataDrivenEvidence": "Описание и размер проверены. Публичных сведений об отдельной product analytics команде, владении экспериментами и влиянии аналитиков на roadmap недостаточно для честной оценки по шкале. Это существующая запись из Remotive, не новая рекомендация для профиля Product Analyst.",
+      "origins": [
+        {
+          "label": "Remotive",
+          "url": "https://remotive.com/remote-jobs/software-development/senior-independent-software-developer-1919265"
+        }
+      ],
+      "evidenceUrls": [
+        "https://www.linkedin.com/company/ateams",
+        "https://www.a.team/",
+        "https://remotive.com/remote-jobs/software-development/senior-independent-software-developer-1919265",
+        "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266"
+      ]
+    },
+    {
+      "name": "Mitre Media",
+      "description": "Издатель финансовых интернет-медиа и цифровых продуктов для инвесторов. Объединяет контент, финансовые данные, рекламные и подписные сервисы на собственной платформе.",
+      "companyType": "media",
+      "sizeCategory": "small",
+      "size": "11–50, корпоративная страница LinkedIn.",
+      "website": "https://www.mitremedia.com/",
+      "location": "Toronto, Canada; New York, USA",
+      "industry": "Digital media · финансовый контент",
+      "checkedAt": "2026-09-21",
+      "workModes": ["remote"],
+      "dataDrivenScore": null,
+      "dataDrivenEvidence": "Описание и размер проверены. Публичных сведений об отдельной product analytics команде, владении экспериментами и влиянии аналитиков на roadmap недостаточно для честной оценки по шкале. Это существующая запись из Remotive, не новая рекомендация для профиля Product Analyst.",
+      "origins": [
+        {
+          "label": "Remotive",
+          "url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746"
+        }
+      ],
+      "evidenceUrls": [
+        "https://www.linkedin.com/company/mitre-media-corp-",
+        "https://www.mitremedia.com/",
+        "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746"
+      ]
+    },
+    {
+      "name": "Coalition Technologies",
+      "description": "Агентство интернет-маркетинга и веб-разработки. Помогает клиентам с SEO, рекламой, дизайном сайтов и развитием электронной коммерции.",
+      "companyType": "services",
+      "sizeCategory": "growth",
+      "size": "201–500, корпоративная страница LinkedIn.",
+      "website": "https://www.coalitiontechnologies.com/",
+      "location": "Los Angeles, USA; распределённая команда",
+      "industry": "B2B · услуги",
+      "checkedAt": "2026-09-21",
+      "workModes": ["remote"],
+      "dataDrivenScore": null,
+      "dataDrivenEvidence": "Описание и размер проверены. Публичных сведений об отдельной product analytics команде, владении экспериментами и влиянии аналитиков на roadmap недостаточно для честной оценки по шкале. Это существующая запись из Remotive, не новая рекомендация для профиля Product Analyst.",
+      "origins": [
+        {
+          "label": "Remotive",
+          "url": "https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495"
+        }
+      ],
+      "evidenceUrls": [
+        "https://www.linkedin.com/company/coalition-technologies",
+        "https://www.coalitiontechnologies.com/",
+        "https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495",
+        "https://remotive.com/remote-jobs/writing/freelance-copywriter-1749306"
+      ]
+    },
+    {
+      "name": "iMerit Technology",
+      "description": "Поставщик данных и экспертной разметки для обучения и оценки AI-моделей. Работает с текстом, изображениями и другими типами данных и развивает платформу Ango Hub.",
+      "companyType": "services",
+      "sizeCategory": "enterprise",
+      "size": "10 001+ по корпоративной странице LinkedIn; состав штатной команды и экспертной сети отдельно не раскрыт.",
+      "website": "https://imerit.ai/",
+      "location": "San Jose, USA; Kolkata, India",
+      "industry": "B2B · услуги",
+      "checkedAt": "2026-09-21",
+      "workModes": ["remote"],
+      "dataDrivenScore": null,
+      "dataDrivenEvidence": "Описание и размер проверены. Публичных сведений об отдельной product analytics команде, владении экспериментами и влиянии аналитиков на roadmap недостаточно для честной оценки по шкале. Это существующая запись из Remotive, не новая рекомендация для профиля Product Analyst.",
+      "origins": [
+        {
+          "label": "Remotive",
+          "url": "https://remotive.com/remote-jobs/artificial-intelligence/ai-response-evaluator-2091126"
+        }
+      ],
+      "evidenceUrls": [
+        "https://www.linkedin.com/company/imerit",
+        "https://imerit.ai/",
+        "https://remotive.com/remote-jobs/artificial-intelligence/ai-response-evaluator-2091126"
+      ]
+    },
+    {
+      "name": "Credit Wellness, LLC",
+      "description": "Компания потребительских финансовых услуг, помогающая клиентам работать с кредитными отчётами и кредитным профилем. В текущей базе представлена вакансией удалённых продаж.",
+      "companyType": "services",
+      "sizeCategory": "medium",
+      "size": "Ориентировочно 51–200 по Himalayas; численность работодателем не подтверждена.",
+      "website": "https://creditwellnessllc.com/",
+      "location": "",
+      "industry": "B2B · услуги",
+      "checkedAt": "2026-09-21",
+      "workModes": ["remote"],
+      "dataDrivenScore": null,
+      "dataDrivenEvidence": "Описание и размер проверены. Публичных сведений об отдельной product analytics команде, владении экспериментами и влиянии аналитиков на roadmap недостаточно для честной оценки по шкале. Это существующая запись из Remotive, не новая рекомендация для профиля Product Analyst.",
+      "origins": [
+        {
+          "label": "Remotive",
+          "url": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540"
+        }
+      ],
+      "evidenceUrls": [
+        "https://himalayas.app/companies/credit-wellness-llc",
+        "https://creditwellnessllc.com/",
+        "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540"
+      ]
+    },
+    {
+      "name": "Unio Digital",
+      "description": "Поставщик управляемых IT-услуг для бизнеса в Аризоне. Занимается облачными сервисами, сетями, информационной безопасностью и кабельной инфраструктурой.",
+      "companyType": "services",
+      "sizeCategory": "small",
+      "size": "11–50, корпоративная страница LinkedIn.",
+      "website": "https://unio.digital/",
+      "location": "Tucson, Arizona, USA",
+      "industry": "B2B · услуги",
+      "checkedAt": "2026-09-21",
+      "workModes": ["remote"],
+      "dataDrivenScore": null,
+      "dataDrivenEvidence": "Описание и размер проверены. Публичных сведений об отдельной product analytics команде, владении экспериментами и влиянии аналитиков на roadmap недостаточно для честной оценки по шкале. Это существующая запись из Remotive, не новая рекомендация для профиля Product Analyst.",
+      "origins": [
+        {
+          "label": "Remotive",
+          "url": "https://remotive.com/remote-jobs/information-technology/tier-iii-service-desk-engineer-2091045"
+        }
+      ],
+      "evidenceUrls": [
+        "https://www.linkedin.com/company/unio-digital",
+        "https://unio.digital/",
+        "https://remotive.com/remote-jobs/information-technology/tier-iii-service-desk-engineer-2091045"
+      ]
+    },
+    {
+      "name": "IAPWE",
+      "description": "Профессиональное объединение авторов и редакторов. Публикует ресурсы и предложения работы и связывает участников с заказчиками текстовых услуг.",
+      "companyType": "services",
+      "sizeCategory": "unknown",
+      "size": "Численность штатной команды не подтверждена: LinkedIn указывает 1 001–5 000, но объединение включает сеть участников и авторов.",
+      "website": "https://iapwe.org/",
+      "location": "New York, USA",
+      "industry": "B2B · услуги",
+      "checkedAt": "2026-09-21",
+      "workModes": ["remote"],
+      "dataDrivenScore": null,
+      "dataDrivenEvidence": "Описание и размер проверены. Публичных сведений об отдельной product analytics команде, владении экспериментами и влиянии аналитиков на roadmap недостаточно для честной оценки по шкале. Это существующая запись из Remotive, не новая рекомендация для профиля Product Analyst.",
+      "origins": [
+        {
+          "label": "Remotive",
+          "url": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979"
+        }
+      ],
+      "evidenceUrls": [
+        "https://www.linkedin.com/company/iapwe-international-association-of-professional-writers-and-editors",
+        "https://iapwe.org/",
+        "https://remotive.com/remote-jobs/writing/freelance-writer-1185979"
+      ]
+    }
+  ]
+}

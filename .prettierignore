@@ -1,0 +1,9 @@
+node_modules
+dist
+data
+package-lock.json
+artifacts
+.runtime
+Scout.app
+# Generated, compact map data.
+src/data/geography.json

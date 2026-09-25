@@ -1,0 +1,253 @@
+{
+  "companies": [
+    {
+      "name": "Preply",
+      "website": "https://preply.com/",
+      "industry": "EdTech · marketplace",
+      "location": "Barcelona, Spain",
+      "tags": ["Product analytics", "Эксперименты", "Релокация"],
+      "notes": "Признаки сильной аналитической культуры: продуктовые команды с аналитиками, множество A/B-тестов, общий Data Chapter. Оценка по описаниям работодателя, проверено 21.09.2026.\nhttps://jobs.ashbyhq.com/preply/b208c4e1-8b65-412f-af09-aeb53c8f6fbd\nhttps://jobs.ashbyhq.com/preply/e41db749-c3d2-4735-863c-087df45e4866",
+      "status": "watching"
+    },
+    {
+      "name": "Nexthink",
+      "website": "https://www.nexthink.com/",
+      "industry": "B2B SaaS · Digital Employee Experience",
+      "location": "Madrid, Spain",
+      "tags": ["Product analytics", "Product Intelligence", "Релокация"],
+      "notes": "Признаки развитой работы с данными: Product Intelligence, общие определения метрик, связка Product и Engineering. Часть стандартов предстоит выстроить самому; зрелость экспериментальной практики стоит уточнить. Проверено 21.09.2026.\nhttps://jobs.smartrecruiters.com/Nexthink/744000150389449-data-analytics-lead-product-intelligence-",
+      "status": "watching"
+    },
+    {
+      "name": "Scopely",
+      "website": "https://www.scopely.com/",
+      "industry": "Gaming · mobile games",
+      "location": "Barcelona, Spain",
+      "tags": ["Product analytics", "Эксперименты", "Global mobility"],
+      "notes": "Команды продуктовых аналитиков и analytics engineers; развитые эксперименты и платформенная аналитика. Это признаки сильной культуры по описаниям вакансий.\nhttps://job-boards.greenhouse.io/scopely/jobs/5285387008\nhttps://job-boards.greenhouse.io/scopely/jobs/5283492008\nВ официальном материале 2024 года описана Global Mobility для новых сотрудников. Это историческое свидетельство программы, условия текущих ролей не подтверждает:\nhttps://www.scopely.com/en/news/scopelean-spotlight-eve-espindola\nПроверено 21.09.2026.",
+      "status": "research"
+    },
+    {
+      "name": "King",
+      "website": "https://www.king.com/",
+      "industry": "Gaming · mobile games",
+      "location": "Barcelona, Spain",
+      "tags": ["Product analytics", "Эксперименты", "Candy Crush"],
+      "notes": "В Player Value аналитики отвечают за полный цикл экспериментов, продуктовые рекомендации и общие стандарты Analytics craft. Признаки сильной культуры по описанию роли; релокация в этой публикации не оговорена. Проверено 21.09.2026.\nhttps://xboxgaming.wd1.myworkdayjobs.com/en-US/King_External_Careers/job/Senior-Product-Analyst_R028162-1",
+      "status": "research"
+    },
+    {
+      "name": "Rover",
+      "website": "https://www.rover.com/",
+      "industry": "Marketplace · pet care",
+      "location": "Barcelona, Spain",
+      "tags": ["Product analytics", "Marketplace", "Эксперименты"],
+      "notes": "Аналитики работают с PM, проектируют эксперименты и поддерживают dbt/BI. Текущая роль совмещает продуктовую и операционную аналитику. Переезд допускается, оплата и визовая помощь не подтверждены. Проверено 21.09.2026.\nhttps://jobs.lever.co/rover/966abd0e-14d3-42ba-93e8-fe24fd4c8938",
+      "status": "research"
+    }
+  ],
+  "jobs": [
+    {
+      "title": "Senior Data Scientist - Insights",
+      "company": "Preply",
+      "url": "https://jobs.ashbyhq.com/preply/b208c4e1-8b65-412f-af09-aeb53c8f6fbd",
+      "location": "Barcelona, Spain",
+      "workMode": "hybrid",
+      "seniority": "senior",
+      "tags": [
+        "Релокация: подтверждена",
+        "Продуктовая аналитика по задачам",
+        "Product analytics",
+        "A/B testing",
+        "SQL",
+        "Python",
+        "Retention",
+        "Spain"
+      ],
+      "description": "Продуктовая аналитика под названием Data Scientist: работа внутри продуктовой команды с PM, анализ поведения пользователей и marketplace, retention/LTV, определение KPI и событий, дизайн и оценка экспериментов, влияние на roadmap. Нужен опыт продуктовой аналитики и A/B-тестов, SQL/Python. Минимальное число лет не указано. Machine learning — дополнительный плюс.",
+      "notes": "Проверено 21.09.2026: роль присутствует в публичной Ashby-доске Preply (isListed=true).\nРелокация: в этой вакансии прямо указан пакет переезда в Barcelona Hub. Визовое спонсорство и состав пакета не раскрыты.\nПриоритет: наиболее близкое соответствие продуктовой аналитике с подтверждённой поддержкой переезда. Название работодателя сохранено.\nПубликация старая (2025), но остаётся открытой в живом API; уточнить активность конкретного набора.\nИсточник: https://jobs.ashbyhq.com/preply/b208c4e1-8b65-412f-af09-aeb53c8f6fbd",
+      "favorite": true,
+      "source": "import",
+      "externalId": "b208c4e1-8b65-412f-af09-aeb53c8f6fbd",
+      "publishedAt": "2025-07-16T08:50:09.910Z",
+      "stage": "new",
+      "lastSeenAt": "2026-09-21T16:43:09.000Z",
+      "demo": false
+    },
+    {
+      "title": "Senior Data Analyst - B2B",
+      "company": "Preply",
+      "url": "https://jobs.ashbyhq.com/preply/e41db749-c3d2-4735-863c-087df45e4866",
+      "location": "Barcelona, Spain",
+      "workMode": "hybrid",
+      "seniority": "senior",
+      "tags": [
+        "Релокация: подтверждена",
+        "Смежная роль",
+        "Product analytics",
+        "B2B",
+        "SQL",
+        "Retention",
+        "Эксперименты",
+        "Spain"
+      ],
+      "description": "Смежная продуктово-бизнесовая аналитика B2B: retention, churn, LTV, pricing, сценарные модели и единые KPI. Формирование аналитической и экспериментальной программы, рекомендации для продуктовых и бизнес-решений. Общий Data Chapter, взаимодействие с аналитиками, DS и analytics engineers. Требуется 5+ лет, сильный SQL и опыт влияния на решения руководства.",
+      "notes": "Проверено 21.09.2026: активная перечисленная вакансия в Ashby Preply.\nРелокация: прямо предлагается пакет переезда в Barcelona Hub. Визовое спонсорство, бюджет и поддержка семьи не описаны.\nСоответствие частичное: шире классического Product Analyst, много B2B-стратегии и операционных метрик. Уточнить долю работы с продуктовой командой.\nИсточник: https://jobs.ashbyhq.com/preply/e41db749-c3d2-4735-863c-087df45e4866",
+      "favorite": true,
+      "source": "import",
+      "externalId": "e41db749-c3d2-4735-863c-087df45e4866",
+      "publishedAt": "2026-09-08T13:37:10.155Z",
+      "stage": "new",
+      "lastSeenAt": "2026-09-21T16:43:09.000Z",
+      "demo": false
+    },
+    {
+      "title": "Data Analytics Lead (Product Intelligence)",
+      "company": "Nexthink",
+      "url": "https://jobs.smartrecruiters.com/Nexthink/744000150389449-data-analytics-lead-product-intelligence-",
+      "location": "Madrid, Spain",
+      "workMode": "hybrid",
+      "seniority": "lead",
+      "salaryMin": 62000,
+      "salaryMax": 110000,
+      "currency": "EUR",
+      "salaryPeriod": "year",
+      "salaryText": "€62,000–110,000 gross/year base; OTE €68,200–126,500. В объявлении есть дополнительные внутренние диапазоны — уточнить вилку конкретного уровня.",
+      "tags": [
+        "Релокация: подтверждена",
+        "Lead IC",
+        "Product analytics",
+        "SQL",
+        "Telemetry",
+        "SaaS",
+        "Spain"
+      ],
+      "description": "Lead по продуктовой аналитике, индивидуальный эксперт: usage, воронки, adoption, retention, определения метрик и телеметрия вместе с PM/Engineering. Ответственность за качество данных и аналитические стандарты, презентация выводов руководству. Требуется 7+ лет, SQL, BI/семантическое моделирование и современный data stack. Гибрид: три дня в мадридском офисе.",
+      "notes": "Проверено 21.09.2026: SmartRecruiters active=true, PUBLIC; актуальная публикация 744000150389449 (REF3477E).\nРелокация: в вакансии прямо указан пакет для переезжающих из другой страны. Спонсорство визы отдельно не обещано.\nСоответствие senior+: продуктовая аналитика с большой долей governance; управление сотрудниками не заявлено. Экспериментальную зрелость уточнить.\nЗарплата взята из текущего API работодателя, не из агрегаторов.\nИсточник: https://jobs.smartrecruiters.com/Nexthink/744000150389449-data-analytics-lead-product-intelligence-",
+      "favorite": true,
+      "source": "import",
+      "externalId": "REF3477E",
+      "publishedAt": "2026-09-18T14:21:37.160Z",
+      "stage": "new",
+      "lastSeenAt": "2026-09-21T16:43:09.000Z",
+      "demo": false
+    },
+    {
+      "title": "Senior Product Analyst - Stumble Guys!",
+      "company": "Scopely",
+      "url": "https://job-boards.greenhouse.io/scopely/jobs/5285387008",
+      "location": "Barcelona, Spain",
+      "workMode": "unknown",
+      "seniority": "senior",
+      "tags": [
+        "Релокация: уточнить",
+        "Точное название роли",
+        "Product analytics",
+        "Gaming",
+        "A/B testing",
+        "BigQuery",
+        "SQL",
+        "Spain"
+      ],
+      "description": "Продуктовая аналитика Stumble Guys: эксперименты, engagement, retention и монетизация; инструментирование событий и аналитические модели. Команда Product Analysts и Analytics Engineers, тесная работа с PM и Game Design. Стек GCP, BigQuery, Looker, Hex; сильный SQL, опыт A/B-тестов, Python/R как плюс. Senior указан работодателем.",
+      "notes": "Проверено 21.09.2026: публикация 5285387008 присутствует в живом Greenhouse API Scopely.\nИспания указана прямо. В самой вакансии нет обязательства по релокации или визе; формат работы не уточнён.\nВозможность поддержки требует проверки: исторически у компании есть Global Mobility для новых сотрудников, но применимость к этой роли неизвестна.\nВакансия: https://job-boards.greenhouse.io/scopely/jobs/5285387008\nПрограмма компании (материал 2024 года): https://www.scopely.com/en/news/scopelean-spotlight-eve-espindola",
+      "source": "import",
+      "externalId": "5285387008",
+      "stage": "new",
+      "lastSeenAt": "2026-09-21T16:43:09.000Z",
+      "demo": false
+    },
+    {
+      "title": "Product Analyst - Star Trek Fleet Command",
+      "company": "Scopely",
+      "url": "https://job-boards.greenhouse.io/scopely/jobs/5283492008",
+      "location": "Barcelona, Spain",
+      "workMode": "hybrid",
+      "seniority": "middle",
+      "tags": [
+        "Релокация: уточнить",
+        "Уровень: оценка middle+",
+        "Product analytics",
+        "Gaming",
+        "Causal inference",
+        "SQL",
+        "Python",
+        "Spain"
+      ],
+      "description": "Аналитика игрового продукта на всём жизненном цикле: метрики, влияние новых функций и событий, качество событий, продуктовые рекомендации. Команда аналитиков и центральная data platform. Нужны сильные SQL/Python, статистическое моделирование и опыт causal inference, экспериментов или ML; самостоятельная работа. Уровень middle+ — оценка по требованиям, числовой стаж и грейд не опубликованы.",
+      "notes": "Проверено 21.09.2026: вакансия 5283492008 есть в живом Greenhouse API. Текущий текст указывает гибрид в Барселоне.\nРелокация и визовая помощь по этой позиции не подтверждены. Историческая Global Mobility Scopely — основание уточнить возможность, а не гарантия.\nВакансия: https://job-boards.greenhouse.io/scopely/jobs/5283492008\nПрограмма компании (2024): https://www.scopely.com/en/news/scopelean-spotlight-eve-espindola",
+      "source": "import",
+      "externalId": "5283492008",
+      "stage": "new",
+      "lastSeenAt": "2026-09-21T16:43:09.000Z",
+      "demo": false
+    },
+    {
+      "title": "Senior Product Analyst",
+      "company": "King",
+      "url": "https://xboxgaming.wd1.myworkdayjobs.com/en-US/King_External_Careers/job/Senior-Product-Analyst_R028162-1",
+      "location": "Barcelona, Spain; также London / Stockholm",
+      "workMode": "unknown",
+      "seniority": "senior",
+      "tags": [
+        "Релокация: уточнить",
+        "Точное название роли",
+        "Product analytics",
+        "Candy Crush",
+        "A/B testing",
+        "BigQuery",
+        "Looker",
+        "Spain"
+      ],
+      "description": "Player Value в Candy Crush Saga, преимущественно IAP: полный цикл экспериментов, pricing, монетизация, retention и игровая экономика. SQL/BigQuery, Looker, определения событий и качество данных. Работа с PM, Design, Engineering и DS; обмен знаниями и наставничество в Analytics craft. Senior IC, Python/R желательны.",
+      "notes": "Проверено 21.09.2026 в Workday: R028162, posted=true, canApply=true. Барселона явно указана среди трёх локаций.\nЗаявленный срок подачи: 29.09.2026. Перепроверить перед откликом.\nРелокация в Испанию и визовое спонсорство не описаны — это вариант для уточнения, не подтверждённый relocation-fit. Формат офиса/гибрида также уточнить.\nИсточник: https://xboxgaming.wd1.myworkdayjobs.com/en-US/King_External_Careers/job/Senior-Product-Analyst_R028162-1",
+      "source": "import",
+      "externalId": "R028162",
+      "publishedAt": "2026-09-15T00:00:00.000Z",
+      "stage": "new",
+      "lastSeenAt": "2026-09-21T16:43:09.000Z",
+      "demo": false
+    },
+    {
+      "title": "Senior Data Analyst - Operations Analytics",
+      "company": "Rover",
+      "url": "https://jobs.lever.co/rover/966abd0e-14d3-42ba-93e8-fe24fd4c8938",
+      "location": "Barcelona, Spain",
+      "workMode": "hybrid",
+      "seniority": "senior",
+      "salaryMin": 47124,
+      "salaryMax": 60319,
+      "currency": "EUR",
+      "salaryPeriod": "year",
+      "salaryText": "€47,124–60,319 в первый год; дополнительно долгосрочная денежная программа по результатам компании.",
+      "tags": [
+        "Релокация: уточнить",
+        "Смежная роль",
+        "Product analytics",
+        "Marketplace",
+        "A/B testing",
+        "SQL",
+        "dbt",
+        "Spain"
+      ],
+      "description": "Смешанная продуктовая и операционная аналитика: поддержка Bookings Confidence, эксперименты с PM, измерение CX-программ, dbt/BI и аналитические рекомендации. Требуется 4+ года, SQL, A/B-тесты, dbt/Airflow и визуализация. Офис в Барселоне два дня в неделю: понедельник и четверг.",
+      "notes": "Проверено 21.09.2026: вакансия присутствует в публичной Lever-доске Rover.\nПереезд допускается: работодатель принимает кандидатов, готовых переехать в Барселону. Оплата переезда и визовая помощь в текущей роли не указаны.\nСоответствие частичное: кроме продуктовой аналитики есть существенная операционная/CX-часть.\nСтарая Senior Product Analyst с assisted relocation в текущей доске не найдена; её льготы сюда не перенесены.\nИсточник: https://jobs.lever.co/rover/966abd0e-14d3-42ba-93e8-fe24fd4c8938",
+      "source": "import",
+      "externalId": "966abd0e-14d3-42ba-93e8-fe24fd4c8938",
+      "stage": "new",
+      "lastSeenAt": "2026-09-21T16:43:09.000Z",
+      "demo": false
+    }
+  ],
+  "profiles": [
+    {
+      "name": "Испания · Product analytics · релокация",
+      "keywords": ["Product analytics", "Релокация: подтверждена"],
+      "locations": ["Spain"],
+      "workMode": "any",
+      "seniority": "any",
+      "currency": "EUR",
+      "salaryPeriod": "year"
+    }
+  ]
+}

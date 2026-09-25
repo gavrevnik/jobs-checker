@@ -1,0 +1,446 @@
+{
+  "companies": [
+    {
+      "name": "Hostinger",
+      "website": "https://www.hostinger.com/",
+      "industry": "B2B SaaS · hosting & online business",
+      "location": "Vilnius / Kaunas, Lithuania; Luxembourg",
+      "workModes": ["remote"],
+      "description": "Платформа для создания и размещения сайтов и ведения онлайн-бизнеса. Объединяет хостинг, домены, веб-конструктор, бизнес-почту и инструменты продвижения с AI-функциями.",
+      "companyType": "saas",
+      "sizeCategory": "large",
+      "size": "1 000+ сотрудников на официальной странице About; широкая категория 1 001–5 000.",
+      "checkedAt": "2026-09-21",
+      "dataDrivenScore": 8,
+      "dataDrivenEvidence": "В текущей роли есть Product Analysis Team Lead, отдельная Data Platform команда, SQL/Amplitude, A/B-тесты и влияние на продуктовые решения. Есть аналитические коллеги и обучение, включая Reforge.",
+      "origins": [
+        {
+          "label": "Подборка в чате",
+          "url": ""
+        },
+        {
+          "label": "Ashby",
+          "url": "https://jobs.ashbyhq.com/hostinger/7e22c963-6033-43e1-a0ad-f107256d2069"
+        }
+      ],
+      "evidenceUrls": [
+        "https://www.hostinger.com/about",
+        "https://jobs.ashbyhq.com/hostinger/7e22c963-6033-43e1-a0ad-f107256d2069"
+      ]
+    },
+    {
+      "name": "SumUp",
+      "website": "https://www.sumup.com/",
+      "industry": "B2B fintech · payments",
+      "location": "London, UK; Sofia, Bulgaria",
+      "workModes": ["onsite"],
+      "description": "Финтех-компания с платёжными и финансовыми инструментами для малого бизнеса. Развивает эквайринг, POS-решения, счета и приложения для продавцов и покупателей.",
+      "companyType": "fintech",
+      "sizeCategory": "large",
+      "size": "3 000+ сотрудников, текущие вакансии работодателя.",
+      "checkedAt": "2026-09-21",
+      "dataDrivenScore": 8,
+      "dataDrivenEvidence": "Аналитики работают с Product/Design/Engineering и Analytics Engineers, отвечают за KPI и эксперименты. Consumer Growth ближе к end-to-end продуктовой аналитике; Payments в Софии сильнее ориентирована на BI и storytelling.",
+      "origins": [
+        {
+          "label": "Подборка в чате",
+          "url": ""
+        },
+        {
+          "label": "Карьерный сайт",
+          "url": "https://sumup.com/careers/positions/8559467002"
+        }
+      ],
+      "evidenceUrls": [
+        "https://sumup.com/careers/positions/8827402002",
+        "https://sumup.com/careers/positions/8559467002"
+      ]
+    },
+    {
+      "name": "Grover",
+      "website": "https://www.grover.com/",
+      "industry": "B2C / B2B · tech subscriptions",
+      "location": "Berlin, Germany",
+      "workModes": ["hybrid"],
+      "description": "Сервис подписки и аренды электроники для людей и бизнеса. Предлагает устройства на гибких условиях, возвращает их в оборот после использования и развивает управление корпоративной техникой.",
+      "companyType": "consumer",
+      "sizeCategory": "growth",
+      "size": "201–500 сотрудников по корпоративной странице LinkedIn; категория ориентировочная.",
+      "checkedAt": "2026-09-21",
+      "dataDrivenScore": 8,
+      "dataDrivenEvidence": "Прямое подчинение Product Director, партнёрство с Data Platform, владение A/B-тестами в Eppo и acquisition/retention. Сильные конкретные признаки; размер аналитической команды и поддержка опытных коллег требуют уточнения.",
+      "origins": [
+        {
+          "label": "Подборка в чате",
+          "url": ""
+        },
+        {
+          "label": "Greenhouse",
+          "url": "https://job-boards.greenhouse.io/grover/jobs/7727055003"
+        }
+      ],
+      "evidenceUrls": [
+        "https://www.linkedin.com/company/grover",
+        "https://job-boards.greenhouse.io/grover/jobs/7727055003"
+      ]
+    },
+    {
+      "name": "HelloFresh",
+      "website": "https://www.hellofreshgroup.com/",
+      "industry": "B2C foodtech · subscriptions",
+      "location": "Berlin, Germany; Warsaw, Poland",
+      "workModes": [],
+      "description": "Группа сервисов доставки наборов продуктов и готовых блюд по подписке. Цифровые продукты поддерживают выбор меню, заказы, персонализацию и логистику; общую технологическую платформу развивает HelloTech.",
+      "companyType": "retail",
+      "sizeCategory": "enterprise",
+      "size": "18 000+ сотрудников группы по официальному сайту; HelloTech — более 1 000, согласно текущей вакансии.",
+      "checkedAt": "2026-09-21",
+      "dataDrivenScore": 9,
+      "dataDrivenEvidence": "HelloTech описывает автономные продуктовые команды; Consumer Analytics — A/B-тесты, KPI-деревья, web/app-поведение, SQL/Python и PM/UX/Engineering. Оценка относится к цифровому продукту, а не всем операционным подразделениям группы.",
+      "origins": [
+        {
+          "label": "Подборка в чате",
+          "url": ""
+        },
+        {
+          "label": "Карьерный сайт",
+          "url": "https://careers.hellofresh.com/global/en/job/7653269"
+        }
+      ],
+      "evidenceUrls": [
+        "https://www.hellofreshgroup.com/",
+        "https://careers.hellofresh.com/global/en/job/7653269"
+      ]
+    },
+    {
+      "name": "GoCardless",
+      "website": "https://gocardless.com/",
+      "industry": "B2B fintech · bank payments",
+      "location": "London, UK; Lisbon, Portugal; Riga, Latvia",
+      "workModes": ["hybrid"],
+      "description": "B2B-платформа банковских платежей для регулярных и разовых списаний. Помогает компаниям принимать и управлять платежами через Direct Debit, open banking и связанные финансовые инструменты.",
+      "companyType": "fintech",
+      "sizeCategory": "growth",
+      "size": "806 сотрудников на апрель 2025 года, цифра приведена в текущей вакансии; относится к GoCardless, не всей группе Mollie.",
+      "checkedAt": "2026-09-21",
+      "dataDrivenScore": 9,
+      "dataDrivenEvidence": "Сильные явные признаки: развитая Data-группа, владение экспериментами, влияние на roadmap, advanced SQL, Python/R, Amplitude/Looker, сегментация и LTV. Роль допускает самостоятельную методологическую работу и развитие data culture.",
+      "origins": [
+        {
+          "label": "Подборка в чате",
+          "url": ""
+        },
+        {
+          "label": "Greenhouse",
+          "url": "https://job-boards.greenhouse.io/gocardless/jobs/7938467"
+        }
+      ],
+      "evidenceUrls": ["https://job-boards.greenhouse.io/gocardless/jobs/7938467"]
+    }
+  ],
+  "jobs": [
+    {
+      "title": "Senior Product Analyst",
+      "company": "Manychat",
+      "url": "https://jobs.ashbyhq.com/manychat/db287340-3b29-45db-955c-047cf6bd1dd2",
+      "location": "Amsterdam, Netherlands; Barcelona, Spain",
+      "workMode": "hybrid",
+      "seniority": "senior",
+      "salaryMin": null,
+      "salaryMax": null,
+      "currency": "",
+      "salaryPeriod": "unknown",
+      "salaryText": "",
+      "tags": [
+        "Релокация: не предлагается",
+        "SQL",
+        "Product analytics",
+        "KPI",
+        "Growth",
+        "Европа · Product analytics"
+      ],
+      "description": "Senior Product Analyst\n\n4+ года; формальное название Senior, в тексте допускается Middle/Senior. Product Analytics team, работа с PM/Design/Engineering, KPI, roadmap, SQL/Python, self-service. Для этой позиции прямо указано отсутствие релокации: это важнее общего списка льгот, где релокация упоминается. Визовую поддержку уточнить отдельно.\n\nПолное описание и отклик: https://jobs.ashbyhq.com/manychat/db287340-3b29-45db-955c-047cf6bd1dd2\nПозиция присутствовала в публичной доске работодателя 2026-09-21.",
+      "notes": "Проверено 2026-09-21: позиция присутствует в текущей ATS-доске работодателя. Ограничения и соответствие профилю — в описании выше.",
+      "stage": "new",
+      "favorite": false,
+      "followUp": "",
+      "source": "import",
+      "externalId": "db287340-3b29-45db-955c-047cf6bd1dd2",
+      "publishedAt": "2026-08-12T13:19:06.339+00:00",
+      "demo": false,
+      "lastSeenAt": "2026-09-21T18:00:00.000Z"
+    },
+    {
+      "title": "Senior Product Analyst",
+      "company": "Photoroom",
+      "url": "https://jobs.ashbyhq.com/photoroom/9c814622-9cd2-4e2e-a060-b9491ef058eb",
+      "location": "Paris, France",
+      "workMode": "hybrid",
+      "seniority": "senior",
+      "salaryMin": null,
+      "salaryMax": null,
+      "currency": "",
+      "salaryPeriod": "unknown",
+      "salaryText": "",
+      "tags": [
+        "Релокация: подтверждена",
+        "SQL",
+        "A/B testing",
+        "Statistics",
+        "Product analytics",
+        "Европа · Product analytics"
+      ],
+      "description": "Senior Product Analyst\n\n5–10 лет; A/B-тесты, дизайн экспериментов, когорты, SQL/Python, продуктовые метрики. Помощь с переездом во Францию до €10 000, поиском жилья и визой указана работодателем; за пределами Франции визового спонсорства нет. Продуктовая аналитическая функция ещё формируется. Суммы home-office/learning/relocation — льготы, не зарплата.\n\nПолное описание и отклик: https://jobs.ashbyhq.com/photoroom/9c814622-9cd2-4e2e-a060-b9491ef058eb\nПозиция присутствовала в публичной доске работодателя 2026-09-21.",
+      "notes": "Проверено 2026-09-21: позиция присутствует в текущей ATS-доске работодателя. Ограничения и соответствие профилю — в описании выше.",
+      "stage": "new",
+      "favorite": false,
+      "followUp": "",
+      "source": "import",
+      "externalId": "9c814622-9cd2-4e2e-a060-b9491ef058eb",
+      "publishedAt": "2026-07-29T09:17:20.994+00:00",
+      "demo": false,
+      "lastSeenAt": "2026-09-21T18:00:00.000Z"
+    },
+    {
+      "title": "Product Data Analyst | EU based/Remote",
+      "company": "Hostinger",
+      "url": "https://jobs.ashbyhq.com/hostinger/7e22c963-6033-43e1-a0ad-f107256d2069",
+      "location": "Poland; Spain · Remote (EU)",
+      "workMode": "remote",
+      "seniority": "middle",
+      "salaryMin": null,
+      "salaryMax": null,
+      "currency": "",
+      "salaryPeriod": "unknown",
+      "salaryText": "",
+      "tags": [
+        "Грейд: оценка по требованиям",
+        "Релокация: не подтверждена",
+        "SQL",
+        "A/B testing",
+        "Product analytics",
+        "Европа · Product analytics"
+      ],
+      "description": "Product Data Analyst | EU based/Remote\n\nMiddle — оценка по требованию 2+ лет, формальный грейд не указан. Аналитика Reach, Mail и referrals: SQL, Amplitude, Tableau, A/B-тесты, поведение пользователей и продуктовые решения. Заголовок допускает EU-based remote; структурированные локации доски — Poland/Spain. Возможность найма из другой страны ЕС, релокация и визовая поддержка требуют уточнения.\n\nПолное описание и отклик: https://jobs.ashbyhq.com/hostinger/7e22c963-6033-43e1-a0ad-f107256d2069\nПозиция присутствовала в публичной доске работодателя 2026-09-21.",
+      "notes": "Проверено 2026-09-21: позиция присутствует в текущей ATS-доске работодателя. Ограничения и соответствие профилю — в описании выше.",
+      "stage": "new",
+      "favorite": false,
+      "followUp": "",
+      "source": "import",
+      "externalId": "7e22c963-6033-43e1-a0ad-f107256d2069",
+      "publishedAt": "2026-06-12T10:56:02.141+00:00",
+      "demo": false,
+      "lastSeenAt": "2026-09-21T18:00:00.000Z"
+    },
+    {
+      "title": "Senior Product Data Analyst - Consumer Growth",
+      "company": "SumUp",
+      "url": "https://sumup.com/careers/positions/8559467002",
+      "location": "London, UK",
+      "workMode": "onsite",
+      "seniority": "senior",
+      "salaryMin": null,
+      "salaryMax": null,
+      "currency": "",
+      "salaryPeriod": "unknown",
+      "salaryText": "",
+      "tags": [
+        "Без визового спонсорства",
+        "SQL",
+        "A/B testing",
+        "Retention",
+        "Product analytics",
+        "Европа · Product analytics"
+      ],
+      "description": "Senior Product Data Analyst - Consumer Growth\n\nConsumer Growth: acquisition, activation, retention, churn, LTV; SQL, Snowflake/BigQuery, A/B-тесты, взаимодействие с Product/Design/Engineering. Office-first. Работодатель прямо требует существующее право на работу в Великобритании и не спонсирует визу. Дублирующее объявление 8458941002 не добавлено.\n\nПолное описание и отклик: https://sumup.com/careers/positions/8559467002\nПозиция присутствовала в публичной доске работодателя 2026-09-21.",
+      "notes": "Проверено 2026-09-21: позиция присутствует в текущей ATS-доске работодателя. Ограничения и соответствие профилю — в описании выше.",
+      "stage": "new",
+      "favorite": false,
+      "followUp": "",
+      "source": "import",
+      "externalId": "8559467002",
+      "publishedAt": "2026-05-21T07:27:19-04:00",
+      "demo": false,
+      "lastSeenAt": "2026-09-21T18:00:00.000Z"
+    },
+    {
+      "title": "Senior Product Data Analyst - Payments",
+      "company": "SumUp",
+      "url": "https://sumup.com/careers/positions/8827402002",
+      "location": "Sofia, Bulgaria",
+      "workMode": "unknown",
+      "seniority": "senior",
+      "salaryMin": null,
+      "salaryMax": null,
+      "currency": "",
+      "salaryPeriod": "unknown",
+      "salaryText": "",
+      "tags": [
+        "Релокация: не предлагается",
+        "Без визового спонсорства",
+        "SQL",
+        "KPI",
+        "Product analytics",
+        "BI / storytelling",
+        "Европа · Product analytics"
+      ],
+      "description": "Senior Product Data Analyst - Payments\n\nPayments: KPI/North Star, продуктовые инсайты и приоритеты, Tableau/self-service, SQL; 3+ года в BI или Product Analytics. Данные готовят Data Analytics Engineers. Экспериментальный опыт — преимущество; роль заметно ориентирована на BI и коммуникацию метрик. Обязательно право на работу в Болгарии: для этой позиции нет ни визовой поддержки, ни релокации. Формат офиса в объявлении не уточнён.\n\nПолное описание и отклик: https://sumup.com/careers/positions/8827402002\nПозиция присутствовала в публичной доске работодателя 2026-09-21.",
+      "notes": "Проверено 2026-09-21: позиция присутствует в текущей ATS-доске работодателя. Ограничения и соответствие профилю — в описании выше.",
+      "stage": "new",
+      "favorite": false,
+      "followUp": "",
+      "source": "import",
+      "externalId": "8827402002",
+      "publishedAt": "2026-09-21T10:30:57-04:00",
+      "demo": false,
+      "lastSeenAt": "2026-09-21T18:00:00.000Z"
+    },
+    {
+      "title": "Sr. Product Analyst (m/w/x)",
+      "company": "Grover",
+      "url": "https://job-boards.greenhouse.io/grover/jobs/7727055003",
+      "location": "Berlin, Germany",
+      "workMode": "hybrid",
+      "seniority": "senior",
+      "salaryMin": null,
+      "salaryMax": null,
+      "currency": "",
+      "salaryPeriod": "unknown",
+      "salaryText": "",
+      "tags": [
+        "Релокация: не подтверждена",
+        "SQL",
+        "A/B testing",
+        "Retention",
+        "Product analytics",
+        "Европа · Product analytics"
+      ],
+      "description": "Sr. Product Analyst (m/w/x)\n\nSenior Product Analyst в Product Team, подчинение Product Director. Acquisition/Retention, весь цикл A/B-тестов в Eppo, SQL, KPI, влияние на roadmap, работа с Data Platform/Engineering. Английский. Офис в Берлине три дня в неделю, вторник–четверг. Релокация и визовая поддержка в объявлении не подтверждены.\n\nПолное описание и отклик: https://job-boards.greenhouse.io/grover/jobs/7727055003\nПозиция присутствовала в публичной доске работодателя 2026-09-21.",
+      "notes": "Проверено 2026-09-21: позиция присутствует в текущей ATS-доске работодателя. Ограничения и соответствие профилю — в описании выше.",
+      "stage": "new",
+      "favorite": false,
+      "followUp": "",
+      "source": "import",
+      "externalId": "7727055003",
+      "publishedAt": "2026-05-07T09:45:28-04:00",
+      "demo": false,
+      "lastSeenAt": "2026-09-21T18:00:00.000Z"
+    },
+    {
+      "title": "Senior Product Analyst, Consumer Analytics",
+      "company": "HelloFresh",
+      "url": "https://careers.hellofresh.com/global/en/job/7653269",
+      "location": "Warsaw, Poland",
+      "workMode": "unknown",
+      "seniority": "senior",
+      "salaryMin": null,
+      "salaryMax": null,
+      "currency": "",
+      "salaryPeriod": "unknown",
+      "salaryText": "",
+      "tags": [
+        "Релокация: не подтверждена",
+        "Тип договора: уточнить",
+        "SQL",
+        "A/B testing",
+        "KPI",
+        "Product analytics",
+        "Европа · Product analytics"
+      ],
+      "description": "Senior Product Analyst, Consumer Analytics\n\nConsumer Analytics в HelloTech: цифровые web/app-продукты, KPI-деревья, A/B-тесты, SQL/BigQuery, Python, GA4/Snowplow, PM/Engineering/UX. В описании используется формат оказания услуг (provider/engagement): тип договора и возможность трудоустройства нужно уточнить. Доступен workspace в Варшаве; обязательные офисные дни, релокация и визовая поддержка не указаны. Сотрудничество с командами в часовых поясах Берлина и Нью-Йорка.\n\nПолное описание и отклик: https://careers.hellofresh.com/global/en/job/7653269\nПозиция присутствовала в публичной доске работодателя 2026-09-21.",
+      "notes": "Проверено 2026-09-21: позиция присутствует в текущей ATS-доске работодателя. Ограничения и соответствие профилю — в описании выше.",
+      "stage": "new",
+      "favorite": false,
+      "followUp": "",
+      "source": "import",
+      "externalId": "7653269",
+      "publishedAt": "2026-04-15T05:10:47-04:00",
+      "demo": false,
+      "lastSeenAt": "2026-09-21T18:00:00.000Z"
+    },
+    {
+      "title": "Product Analyst",
+      "company": "GoCardless",
+      "url": "https://job-boards.greenhouse.io/gocardless/jobs/7938467",
+      "location": "Lisbon, Portugal",
+      "workMode": "hybrid",
+      "seniority": "middle",
+      "salaryMin": 32000,
+      "salaryMax": 48000,
+      "currency": "EUR",
+      "salaryPeriod": "unknown",
+      "salaryText": "€32 000–48 000 · базовая вилка; период не указан",
+      "tags": [
+        "Грейд: оценка по требованиям",
+        "Релокация: не подтверждена",
+        "SQL",
+        "A/B testing",
+        "Product analytics",
+        "LTV",
+        "Европа · Product analytics"
+      ],
+      "description": "Product Analyst\n\nГрейд Middle+ — оценка по самостоятельному владению экспериментами и advanced SQL, не официальный грейд работодателя. Продуктовые PM/Design/Engineering-команды, влияние на roadmap, A/B-тесты, Amplitude, Looker, Python/R, LTV и сегментация. Опубликована базовая вилка €32 000–48 000, период в тексте не указан; компания предупреждает, что первоначальное предложение обычно между минимумом и серединой диапазона. В форме отклика подтверждён гибрид с графиком, зависящим от команды. Релокация и визовая поддержка не подтверждены.\n\nПолное описание и отклик: https://job-boards.greenhouse.io/gocardless/jobs/7938467\nПозиция присутствовала в публичной доске работодателя 2026-09-21.",
+      "notes": "Проверено 2026-09-21: позиция присутствует в текущей ATS-доске работодателя. Ограничения и соответствие профилю — в описании выше.",
+      "stage": "new",
+      "favorite": false,
+      "followUp": "",
+      "source": "import",
+      "externalId": "7938467",
+      "publishedAt": "2026-05-19T04:57:10-04:00",
+      "demo": false,
+      "lastSeenAt": "2026-09-21T18:00:00.000Z"
+    }
+  ],
+  "profiles": [
+    {
+      "name": "Европа · Product analytics · Middle+",
+      "keywords": [
+        "product analyst | product analytics | продукт",
+        "SQL",
+        "A/B | experiment | эксперимент",
+        "metrics | метрик | KPI",
+        "statistics | statistical | causal | статист",
+        "retention | growth | monetization | pricing | LTV"
+      ],
+      "exclude": [],
+      "locations": [
+        "Europe",
+        "Spain",
+        "France",
+        "Netherlands",
+        "Germany",
+        "UK",
+        "United Kingdom",
+        "Poland",
+        "Bulgaria",
+        "Portugal",
+        "Sweden",
+        "Ireland",
+        "Estonia",
+        "Hungary",
+        "Denmark",
+        "Finland",
+        "Norway",
+        "Switzerland",
+        "Austria",
+        "Italy",
+        "Czechia",
+        "Romania",
+        "Lithuania",
+        "Latvia",
+        "Belgium",
+        "Luxembourg",
+        "Greece",
+        "Croatia",
+        "Cyprus",
+        "Malta"
+      ],
+      "workMode": "any",
+      "seniority": "middle_plus",
+      "notes": "Европейское расширение продуктового профиля: Product Analyst Middle/Senior/Lead, SQL, метрики, A/B-тесты, прикладная статистика, product sense и влияние на roadmap. Приоритет — data-driven продуктовые команды, а не ML engineering или отчётность без продуктового ownership. География — Европа, включая Великобританию и Швейцарию. Формат работы и зарплатный порог не ограничены. Релокация и право на работу проверяются отдельно по вакансии; общий бренд работодателя их не гарантирует. Исходный профиль Испании сохранён отдельно. Обновлено 21.09.2026.",
+      "minSalary": null,
+      "currency": "EUR",
+      "salaryPeriod": "year"
+    }
+  ]
+}

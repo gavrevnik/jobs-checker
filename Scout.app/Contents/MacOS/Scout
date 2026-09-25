@@ -1,0 +1,108 @@
+#!/bin/zsh
+set -eu
+
+# Finder launches this bundle without Terminal or the user's shell profile.
+SCOUT_ROOT="${0:A:h}/../../.."
+SCOUT_ROOT="${SCOUT_ROOT:A}"
+SCOUT_RUNTIME="${SCOUT_ROOT}/.runtime"
+export PATH="/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"
+SCOUT_NODE="$(command -v node || true)"
+SCOUT_NPM="$(command -v npm || true)"
+
+show_error() {
+  if [[ "${SCOUT_LAUNCHER_HEADLESS:-0}" == 1 ]]; then
+    print -ru2 -- "$1"
+    return
+  fi
+  /usr/bin/osascript - "$1" <<'APPLESCRIPT'
+on run argv
+  display alert "Scout" message (item 1 of argv) as critical
+end run
+APPLESCRIPT
+}
+
+open_interface() {
+  # Allows the startup path to be checked without controlling a desktop session.
+  if [[ "${SCOUT_LAUNCHER_HEADLESS:-0}" != 1 ]]; then
+    /usr/bin/open "${SCOUT_URL}"
+  fi
+}
+
+if [[ -z "${SCOUT_NODE}" || -z "${SCOUT_NPM}" ]]; then
+  show_error "Node.js/npm не найден. Установите Node.js 22.13+ и снова откройте Scout."
+  exit 1
+fi
+if ! "${SCOUT_NODE}" -e 'const [major, minor] = process.versions.node.split(".").map(Number); process.exit(major > 22 || (major === 22 && minor >= 13) ? 0 : 1)'; then
+  show_error "Для Scout нужен Node.js 22.13 или новее. Обновите Node.js и повторите запуск."
+  exit 1
+fi
+
+cd "${SCOUT_ROOT}"
+# Built-in env loading also works before the first npm install.
+if ! SCOUT_PORT="$("${SCOUT_NODE}" -e 'if (require("node:fs").existsSync(".env")) process.loadEnvFile(); const port = Number(process.env.PORT || 4317); if (!Number.isInteger(port) || port < 1 || port > 65535) process.exit(1); console.log(port)')"; then
+  show_error "Не удалось прочитать настройки. Проверьте PORT в файле .env: нужен номер от 1 до 65535."
+  exit 1
+fi
+SCOUT_URL="http://127.0.0.1:${SCOUT_PORT}/"
+
+server_ready() {
+  /usr/bin/curl -fsS --max-time 1 "${SCOUT_URL}api/health" 2>/dev/null |
+    "${SCOUT_NODE}" -e 'try { const h = JSON.parse(require("node:fs").readFileSync(0, "utf8")); process.exit(h.ok === true && h.application === "scout-local" && h.workspace === process.argv[1] ? 0 : 1); } catch { process.exit(1); }' "${SCOUT_ROOT}"
+}
+
+if server_ready; then
+  open_interface
+  exit 0
+fi
+
+if /usr/sbin/lsof -nP -iTCP:"${SCOUT_PORT}" -sTCP:LISTEN >/dev/null 2>&1; then
+  show_error "Порт ${SCOUT_PORT} занят другим процессом. Остановите его или задайте другой PORT в .env."
+  exit 1
+fi
+
+/bin/mkdir -p "${SCOUT_RUNTIME}"
+# The app bundle contains the complete launcher; no .command file is needed.
+# A detached session keeps the server independent of Finder and this launcher.
+if ! SCOUT_PID="$("${SCOUT_NODE}" - "${SCOUT_ROOT}" "${SCOUT_NPM}" "${SCOUT_RUNTIME}/web.log" <<'NODE'
+const { spawn } = require('node:child_process');
+const { openSync, closeSync } = require('node:fs');
+const [root, npm, log] = process.argv.slice(2);
+const fd = openSync(log, 'a', 0o600);
+const child = spawn('/bin/zsh', ['-c', `
+  set -eu
+  cd "$1"
+  if [[ ! -d node_modules/tsx || ! -d node_modules/vite ]]; then
+    "$2" ci --no-audit --no-fund
+  fi
+  "$2" run build
+  exec "$3" --import tsx server/index.ts --production
+`, 'scout-launcher', root, npm, process.execPath], {
+  cwd: root,
+  detached: true,
+  stdio: ['ignore', fd, fd],
+});
+closeSync(fd);
+child.once('error', (error) => { console.error(error.message); process.exitCode = 1; });
+child.once('spawn', () => { console.log(child.pid); child.unref(); });
+NODE
+)"; then
+  show_error "Не удалось создать фоновый процесс. Проверьте ${SCOUT_RUNTIME}/web.log"
+  exit 1
+fi
+print -r -- "${SCOUT_PID}" >"${SCOUT_RUNTIME}/web.pid"
+
+# Wait for the actual API, not just an open port or a fixed launch delay.
+for _ in {1..600}; do
+  if server_ready; then
+    open_interface
+    exit 0
+  fi
+  if ! kill -0 "${SCOUT_PID}" 2>/dev/null; then
+    show_error "Не удалось запустить Scout. Подробности в ${SCOUT_RUNTIME}/web.log"
+    exit 1
+  fi
+  /bin/sleep 0.2
+done
+
+show_error "Запуск занимает больше времени, чем ожидалось. Сборка может продолжаться в фоне. Проверьте ${SCOUT_RUNTIME}/web.log и снова откройте Scout."
+exit 1

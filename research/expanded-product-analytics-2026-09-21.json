@@ -1,0 +1,543 @@
+{
+  "companies": [
+    {
+      "name": "Pennylane",
+      "website": "https://www.pennylane.com/",
+      "industry": "B2B fintech · accounting SaaS",
+      "location": "Spain remote; Europe",
+      "tags": [
+        "Подборка 21.09.2026",
+        "Высокий приоритет",
+        "Product analytics",
+        "Испания"
+      ],
+      "status": "watching",
+      "notes": "Проверено 21.09.2026. Сильный кандидат для профиля: выделенная продуктовая аналитическая команда внутри большого Data-департамента, прямое взаимодействие с PM. Это оценка по текущей вакансии; глубину экспериментальной практики уточнить. Senior Product Analyst добавлен в вакансии. Релокация не подтверждена.\nИсточники / карьера:\nhttps://jobs.ashbyhq.com/pennylane/56edd251-e7d2-483f-a6a0-e2acb7cb8fcf"
+    },
+    {
+      "name": "Grafana Labs",
+      "website": "https://grafana.com/",
+      "industry": "B2B SaaS · observability",
+      "location": "Spain remote; Europe",
+      "tags": [
+        "Подборка 21.09.2026",
+        "Высокий приоритет",
+        "Product analytics",
+        "Испания",
+        "Remote"
+      ],
+      "status": "watching",
+      "notes": "Проверено 21.09.2026. Признаки сильной среды: отдельное Product Analytics направление, совместная работа с продуктовыми командами, стандарты измерения и эксперименты. Текущая релевантная роль Staff — высокая планка. Испания разрешена для remote; помощь с переездом неизвестна.\nИсточники / карьера:\nhttps://job-boards.greenhouse.io/grafanalabs/jobs/6107541004"
+    },
+    {
+      "name": "Wallapop",
+      "website": "https://www.wallapop.com/",
+      "industry": "Marketplace · recommerce",
+      "location": "Barcelona, Spain",
+      "tags": [
+        "Подборка 21.09.2026",
+        "Высокий приоритет",
+        "Product analytics",
+        "Эксперименты",
+        "Релокация"
+      ],
+      "status": "watching",
+      "notes": "Проверено 21.09.2026. Особенно интересен по причинным оценкам и экспериментам маркетплейса. Текущая Staff-вакансия описывает общие стандарты и обучение продуктовых команд. Это свидетельства работодателя, а не независимый аудит культуры. Для этой роли прямо указаны релокация и визовая помощь при применимости.\nИсточники / карьера:\nhttps://job-boards.eu.greenhouse.io/wallapop/jobs/4917916101"
+    },
+    {
+      "name": "Glovo",
+      "website": "https://about.glovoapp.com/",
+      "industry": "Marketplace · delivery",
+      "location": "Barcelona, Spain",
+      "tags": [
+        "Подборка 21.09.2026",
+        "Высокий приоритет",
+        "Marketplace",
+        "Эксперименты",
+        "Испания"
+      ],
+      "status": "watching",
+      "notes": "Проверено 21.09.2026. Data Analyst II Rider Experience добавлен: A/B- и switchback-тесты, влияние на системы выплат и экономику. Подходит для изучения marketplace analytics. Старые Senior Product Data Scientist и Lead Growth Analyst не импортированы: страницы доступны, но API active=false и позиции отсутствуют в текущем списке. Pricing & Promotions Sr. Analyst требует FMCG/category management и менее близок профилю.\nИсточники / карьера:\nhttps://jobs.smartrecruiters.com/DeliveryHero/744000150648659-data-analyst-ii-rider-experience\nhttps://careers.glovoapp.com/"
+    },
+    {
+      "name": "MediaMarktSaturn",
+      "website": "https://www.mediamarktsaturn.de/",
+      "industry": "Retail · e-commerce technology",
+      "location": "Barcelona / El Prat de Llobregat, Spain",
+      "tags": [
+        "Подборка 21.09.2026",
+        "Product analytics",
+        "E-commerce",
+        "Испания"
+      ],
+      "status": "watching",
+      "notes": "Проверено 21.09.2026. Интересен именно технологический хаб и Digital Sales: аналитики работают с инженерами и Product Owner, развивают эксперименты и общие определения метрик. В текущей роли существенна техническая часть tracking. Помощь с релокацией не подтверждена.\nИсточники / карьера:\nhttps://careers.mediamarktsaturn.com/MediaMarktES/job/Barcelona-Experienced-Data-Analyst-Digital-Sales-(mfd)-8003/1432639133/"
+    },
+    {
+      "name": "Labhouse",
+      "website": "https://labhouse.io/",
+      "industry": "Mobile apps · subscriptions",
+      "location": "Barcelona, Spain",
+      "tags": [
+        "Подборка 21.09.2026",
+        "Запасной вариант",
+        "Product + PM",
+        "Испания",
+        "Испанский обязателен"
+      ],
+      "status": "watching",
+      "notes": "Проверено 21.09.2026. Интересен для перехода ближе к продуктовым решениям и запуска приложений с CEO. Зрелая аналитическая команда не подтверждена; по критерию обучения у сильных аналитиков приоритет ниже. Текущая роль требует испанский и совмещает PM с аналитикой.\nИсточники / карьера:\nhttps://jobs.ashbyhq.com/labhouse/42a27830-173f-4748-807f-5e0b1c297b97"
+    },
+    {
+      "name": "FREENOW",
+      "website": "https://www.free-now.com/",
+      "industry": "Mobility marketplace",
+      "location": "Barcelona, Spain; Europe",
+      "tags": [
+        "Подборка 21.09.2026",
+        "Наблюдение",
+        "Marketplace",
+        "Испания"
+      ],
+      "status": "watching",
+      "notes": "Проверено 21.09.2026. Потенциально интересен для marketplace и product analytics. На текущей доске есть (Senior) Data Analyst в Барселоне, но акцент на Data Operations и операционных процессах, поэтому в основной список вакансий не добавлен. Старый Product Analyst из Relocate.me отсутствует в текущей доске. Релокацию для будущих позиций проверять отдельно.\nИсточники / карьера:\nhttps://job-boards.greenhouse.io/freenow\nhttps://job-boards.greenhouse.io/freenow/jobs/8010239"
+    },
+    {
+      "name": "N26",
+      "website": "https://n26.com/",
+      "industry": "Fintech · digital banking",
+      "location": "Barcelona, Spain; Berlin, Germany",
+      "tags": [
+        "Подборка 21.09.2026",
+        "Наблюдение",
+        "Fintech",
+        "Испания"
+      ],
+      "status": "watching",
+      "notes": "Проверено 21.09.2026. Перспективен по встроенной в продукт аналитике банковских сценариев. Product Analyst Everyday Banking и Investments, найденные через агрегаторы, сейчас возвращают 404 и отсутствуют в живой доске; открытые product analytics вакансии в Испании не подтверждены. Не переносить исторические условия релокации на будущие роли.\nИсточники / карьера:\nhttps://n26.com/en-eu/careers"
+    },
+    {
+      "name": "Typeform",
+      "website": "https://www.typeform.com/",
+      "industry": "B2B SaaS · forms",
+      "location": "Spain remote; Europe",
+      "tags": [
+        "Подборка 21.09.2026",
+        "Наблюдение",
+        "B2B SaaS",
+        "Испания"
+      ],
+      "status": "watching",
+      "notes": "Проверено 21.09.2026. Потенциально интересен по self-service SaaS, активации и монетизации; это оценка релевантности бизнес-модели. Текущая публичная доска проверена, подходящий Product Analyst не найден. Найденные старые объявления не импортированы. Зрелость конкретной аналитической команды и релокацию проверять при появлении позиции.\nИсточники / карьера:\nhttps://job-boards.greenhouse.io/typeform"
+    },
+    {
+      "name": "Docplanner",
+      "website": "https://www.docplanner.com/",
+      "industry": "Healthtech · marketplace",
+      "location": "Barcelona, Spain; Europe",
+      "tags": [
+        "Подборка 21.09.2026",
+        "Наблюдение",
+        "Marketplace",
+        "Испания"
+      ],
+      "status": "watching",
+      "notes": "Проверено 21.09.2026. Перспективен по маркетплейсу врачей и пациентскому продукту. Ранее опубликованный Senior Product Analyst — Marketplace отсутствует в текущей Ashby-доске. Актуальная Senior Data Scientist ориентирована на production ML и прямо исключает визовое спонсорство, поэтому не добавлена как подходящая продуктовая аналитика.\nИсточники / карьера:\nhttps://jobs.ashbyhq.com/Docplanner"
+    },
+    {
+      "name": "Perk",
+      "website": "https://www.perk.com/",
+      "industry": "B2B SaaS · travel and spend",
+      "location": "Barcelona, Spain; Europe",
+      "tags": [
+        "Подборка 21.09.2026",
+        "Наблюдение",
+        "B2B SaaS",
+        "Испания"
+      ],
+      "status": "watching",
+      "notes": "Проверено 21.09.2026. Бывший TravelPerk. Интересен по бизнес-продукту, growth и расходам компаний. Объявление Data Analyst Product найдено через Welcome to the Jungle, но отсутствует в текущем Ashby-списке. Открытая подходящая роль не подтверждена; следить за Product Analytics / Decision Science. Условия переезда неизвестны.\nИсточники / карьера:\nhttps://www.perk.com/\nhttps://jobs.ashbyhq.com/perk"
+    },
+    {
+      "name": "Manychat",
+      "website": "https://manychat.com/",
+      "industry": "B2B SaaS · conversational marketing",
+      "location": "Barcelona, Spain; Amsterdam, Netherlands",
+      "tags": [
+        "Подборка 21.09.2026",
+        "Наблюдение",
+        "Product analytics",
+        "Испания"
+      ],
+      "status": "watching",
+      "notes": "Проверено 21.09.2026. Интересен по growth, монетизации и продуктовой аналитике SaaS. На текущем карьерном сайте Senior Product Analyst указан для Амстердама; подходящая текущая product analytics позиция в Испании не подтверждена. В Барселоне есть маркетинговое направление, требующее отдельного отбора. Условия релокации зависят от конкретной роли.\nИсточники / карьера:\nhttps://careers.manychat.com/positions\nhttps://careers.manychat.com/team/product-management"
+    },
+    {
+      "name": "Photoroom",
+      "website": "https://www.photoroom.com/",
+      "industry": "AI · image editing SaaS",
+      "location": "Paris, France",
+      "tags": [
+        "Подборка 21.09.2026",
+        "Наблюдение",
+        "Product analytics",
+        "Европа · вне Испании"
+      ],
+      "status": "watching",
+      "notes": "Проверено 21.09.2026. Сильное содержательное совпадение: SQL, Python, A/B-тесты, retention и влияние на PM/Design. Текущий Senior Product Analyst находится в Париже; старые объявления с Барселоной не подтверждены. В вакансии есть релокация до €10 000 и визовая поддержка для Франции, а не переезда в Испанию. Вакансия не импортирована из-за географии; рассмотреть только при расширении стран.\nИсточники / карьера:\nhttps://jobs.ashbyhq.com/photoroom/9c814622-9cd2-4e2e-a060-b9491ef058eb"
+    },
+    {
+      "name": "Wise",
+      "website": "https://wise.com/",
+      "industry": "Fintech · international payments",
+      "location": "London, UK; Tallinn, Estonia; Budapest, Hungary",
+      "tags": [
+        "Подборка 21.09.2026",
+        "Наблюдение",
+        "Product analytics",
+        "Европа · вне Испании"
+      ],
+      "status": "watching",
+      "notes": "Проверено 21.09.2026. Высокий потенциальный приоритет при расширении географии: продуктовая аналитика клиентских сценариев, рост и региональное развитие. Официальные описания связывают аналитика с продуктовой стратегией и бизнес-результатами. Подходящая текущая роль в Испании не подтверждена; локальные визовые и релокационные условия требуют проверки.\nИсточники / карьера:\nhttps://wise.jobs/\nhttps://wise.jobs/job/senior-product-analyst-regional-expansion-in-london-jid-2206"
+    },
+    {
+      "name": "Spotify",
+      "website": "https://www.spotify.com/",
+      "industry": "Consumer tech · subscription media",
+      "location": "Stockholm, Sweden; London, UK",
+      "tags": [
+        "Подборка 21.09.2026",
+        "Наблюдение",
+        "Эксперименты",
+        "Европа · вне Испании"
+      ],
+      "status": "watching",
+      "notes": "Проверено 21.09.2026. Потенциально сильное совпадение по подпискам, retention и экспериментам. Официальный engineering-блог описывает отдельную инфраструктуру экспериментов; это свидетельство практики компании, не гарантия среды конкретной команды. Искать Product Insights / Data Scientist с экспериментами. Открытая подходящая роль в Испании не подтверждена.\nИсточники / карьера:\nhttps://lifeatspotify.com/jobs\nhttps://www.engineering.atspotify.com/2026/1/why-we-use-separate-tech-stacks-for-personalization-and-experimentation"
+    },
+    {
+      "name": "Booking.com",
+      "website": "https://www.booking.com/",
+      "industry": "Travel marketplace",
+      "location": "Amsterdam, Netherlands",
+      "tags": [
+        "Подборка 21.09.2026",
+        "Наблюдение",
+        "Marketplace",
+        "Европа · вне Испании"
+      ],
+      "status": "watching",
+      "notes": "Проверено 21.09.2026. Интересен по масштабу travel marketplace и влиянию продуктовых решений на конверсию; это моя оценка соответствия профилю. Есть собственные публикации команд ML и Data Science. На интервью проверять долю экспериментов и продуктовых задач, чтобы не попасть в преимущественно ML engineering. Подходящая текущая роль в Испании не подтверждена.\nИсточники / карьера:\nhttps://jobs.booking.com/\nhttps://booking.ai/"
+    },
+    {
+      "name": "Google",
+      "website": "https://www.google.com/",
+      "industry": "Big tech · digital products",
+      "location": "Europe — location depends on vacancy",
+      "tags": [
+        "Подборка 21.09.2026",
+        "Наблюдение",
+        "Big tech",
+        "Европа · вне Испании"
+      ],
+      "status": "watching",
+      "notes": "Проверено 21.09.2026. Кандидат из целевой категории big tech. Искать Product Analyst / Data Scientist с продуктовой стратегией, статистикой и экспериментами. Исследовательские публикации об инфраструктуре экспериментов дают историческое свидетельство практики, не подтверждают состояние каждой команды. Открытая подходящая позиция в Испании и условия релокации не подтверждены.\nИсточники / карьера:\nhttps://www.google.com/about/careers/applications/\nhttps://research.google/pubs/overlapping-experiment-infrastructure-more-better-faster-experimentation/"
+    },
+    {
+      "name": "Meta",
+      "website": "https://www.meta.com/",
+      "industry": "Big tech · consumer products",
+      "location": "Europe — location depends on vacancy",
+      "tags": [
+        "Подборка 21.09.2026",
+        "Наблюдение",
+        "Big tech",
+        "Европа · вне Испании"
+      ],
+      "status": "watching",
+      "notes": "Проверено 21.09.2026. Кандидат из целевой категории big tech для Data Scientist, Product Analytics. Лондонские результаты найдены через Indeed, но конкретная действующая публикация работодателя не подтверждена и не импортирована. Официальный материал о построении Data Science-команд — исторический контекст. Географию, продуктовый фокус и визовые условия проверять по новой вакансии.\nИсточники / карьера:\nhttps://www.metacareers.com/\nhttps://engineering.fb.com/2018/06/12/core-infra/building-data-science-teams-to-have-an-impact-at-scale/"
+    }
+  ],
+  "jobs": [
+    {
+      "title": "Senior Product Analyst",
+      "company": "Pennylane",
+      "url": "https://jobs.ashbyhq.com/pennylane/56edd251-e7d2-483f-a6a0-e2acb7cb8fcf",
+      "location": "Spain (remote); France; Germany; Italy",
+      "workMode": "remote",
+      "seniority": "senior",
+      "externalId": "56edd251-e7d2-483f-a6a0-e2acb7cb8fcf",
+      "publishedAt": "2026-07-23T15:59:23.778+00:00",
+      "tags": [
+        "Подборка 21.09.2026",
+        "Основной профиль",
+        "Product analytics",
+        "SQL",
+        "dbt",
+        "Amplitude",
+        "Retention",
+        "Релокация: уточнить"
+      ],
+      "description": "Продуктовая аналитика в B2B fintech: поведение пользователей, adoption, точки трения и рекомендации для roadmap. Работа с PM, дизайном и разработкой; развитие self-service и моделей данных. Требуется 5–6 лет близкого опыта, SQL, dbt и событийная аналитика. Английский обязателен, французский — плюс. В описании указаны 6+ специалистов продуктового Science & Analytics внутри Data-департамента из 40+ человек.",
+      "notes": "Проверено 21.09.2026. Активная вакансия в публичной доске Ashby. Высокий приоритет по содержанию роли и наличию коллег-аналитиков. Испания прямо указана среди разрешённых remote-локаций; требуется проживание в Европе в пределах двух часов от CET. Релокация и визовое спонсорство для этой позиции не подтверждены; уточнить до начала интервью. Практику A/B-тестирования и долю экспериментальных задач стоит уточнить: текущий текст акцентирует продуктовые исследования и поведение пользователей.\nПервоисточник: https://jobs.ashbyhq.com/pennylane/56edd251-e7d2-483f-a6a0-e2acb7cb8fcf",
+      "source": "import",
+      "stage": "new",
+      "favorite": false,
+      "demo": false
+    },
+    {
+      "title": "Staff AI Product Analyst, Product Management | Spain | Remote",
+      "company": "Grafana Labs",
+      "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6107541004",
+      "location": "Spain (Remote)",
+      "workMode": "remote",
+      "seniority": "lead",
+      "externalId": "6107541004",
+      "publishedAt": "2026-07-02T08:58:51-04:00",
+      "tags": [
+        "Подборка 21.09.2026",
+        "Основной профиль",
+        "Staff / stretch",
+        "Product analytics",
+        "SQL",
+        "dbt",
+        "A/B testing",
+        "Retention",
+        "AI product",
+        "Релокация: уточнить"
+      ],
+      "salaryMin": 82988,
+      "salaryMax": 99586,
+      "currency": "EUR",
+      "salaryPeriod": "unknown",
+      "salaryText": "Базовая компенсация в Испании: €82 988–99 586. Период в публикации не указан; уточнить. Дополнительно equity и bonus, если применим.",
+      "description": "Аналитика AI-функций Grafana: adoption, вовлечённость, качество и retention. Определение метрик, инструментирование событий, дизайн и оценка экспериментов вместе с Product, Design и Engineering. SQL, dbt, продуктовые аналитические инструменты и AI-инструменты для работы. Позиция входит в Product Analytics и подчиняется менеджеру этого направления.",
+      "notes": "Проверено 21.09.2026. Активная публикация Greenhouse для Spain Remote. Сильное соответствие продуктовым задачам; уровень Staff выше обычного Senior, в Scout отнесён к Lead. Это аналитика AI-продукта, а не преимущественно разработка ML-моделей. Релокация и визовое спонсорство для этой позиции не подтверждены; уточнить до начала интервью. Удалённая работа из Испании сама по себе не подтверждает помощь с переездом.\nПервоисточник: https://job-boards.greenhouse.io/grafanalabs/jobs/6107541004",
+      "source": "import",
+      "stage": "new",
+      "favorite": false,
+      "demo": false
+    },
+    {
+      "title": "Staff Data Scientist, Experimentation",
+      "company": "Wallapop",
+      "url": "https://job-boards.eu.greenhouse.io/wallapop/jobs/4917916101",
+      "location": "Barcelona, Spain",
+      "workMode": "hybrid",
+      "seniority": "lead",
+      "externalId": "4917916101",
+      "tags": [
+        "Подборка 21.09.2026",
+        "Основной профиль",
+        "Staff / stretch",
+        "Product analytics",
+        "A/B testing",
+        "Causal inference",
+        "SQL",
+        "Python",
+        "Marketplace",
+        "Релокация: подтверждена",
+        "Виза: при применимости"
+      ],
+      "description": "Ведущий эксперт по экспериментам маркетплейса: стандарты A/B-тестов, CUPED, последовательные проверки, сетевые эффекты и квазиэксперименты. Влияние на search, монетизацию и продуктовые решения; обучение аналитиков и PM. SQL и Python/R. Требуется 8+ лет в DS, product analytics или causal inference, включая минимум 4 года глубокой работы с экспериментами.",
+      "notes": "Проверено 21.09.2026. На официальной странице Greenhouse EU доступна форма подачи. Очень сильное совпадение по экспериментам и прикладной статистике; Staff — высокая планка, обозначен как Lead в Scout. Барселона, минимум 6 офисных дней в месяц. Работодатель прямо предлагает пакет релокации и визовое спонсорство, когда оно применимо; условия для конкретного кандидата необходимо согласовать. Зарплата не опубликована.\nПервоисточник: https://job-boards.eu.greenhouse.io/wallapop/jobs/4917916101",
+      "source": "import",
+      "stage": "new",
+      "favorite": false,
+      "demo": false
+    },
+    {
+      "title": "Staff Data Scientist",
+      "company": "Preply",
+      "url": "https://jobs.ashbyhq.com/preply/56258789-bb1b-452a-8353-a352099d6e9f",
+      "location": "Barcelona, Spain",
+      "workMode": "hybrid",
+      "seniority": "lead",
+      "externalId": "56258789-bb1b-452a-8353-a352099d6e9f",
+      "publishedAt": "2026-03-12T13:24:13.000+00:00",
+      "tags": [
+        "Подборка 21.09.2026",
+        "Основной профиль",
+        "Staff / stretch",
+        "Product analytics",
+        "A/B testing",
+        "Causal inference",
+        "SQL",
+        "Python",
+        "Retention",
+        "LTV",
+        "Pricing",
+        "Релокация: уточнить"
+      ],
+      "description": "Продуктовая Data Science: владение аналитической стратегией Growth, Retention или Marketplace, программа экспериментов, LTV, pricing и unit economics. Влияние на roadmap и инвестиционные решения, работа с директорами и VP, наставничество senior-специалистов. Нужны сильные SQL/Python, causal inference и доказанный эффект на стратегию. Работодатель описывает сотни A/B-тестов и развитое Data-сообщество.",
+      "notes": "Проверено 21.09.2026. Активная именно барселонская публикация Ashby. Сильное соответствие задачам, но Staff требует заметного влияния на уровне компании; в Scout обозначен Lead. Релокация и визовое спонсорство для этой позиции не подтверждены; уточнить до начала интервью. В текущем тексте этой барселонской вакансии пакет переезда не указан; условия других вакансий Preply сюда не перенесены.\nПервоисточник: https://jobs.ashbyhq.com/preply/56258789-bb1b-452a-8353-a352099d6e9f",
+      "source": "import",
+      "stage": "new",
+      "favorite": false,
+      "demo": false
+    },
+    {
+      "title": "Data Analyst II Rider Experience",
+      "company": "Glovo",
+      "url": "https://jobs.smartrecruiters.com/DeliveryHero/744000150648659-data-analyst-ii-rider-experience",
+      "location": "Barcelona, Spain",
+      "workMode": "hybrid",
+      "seniority": "middle",
+      "externalId": "744000150648659",
+      "publishedAt": "2026-09-21T09:46:17.111Z",
+      "tags": [
+        "Подборка 21.09.2026",
+        "Смежная роль",
+        "Marketplace",
+        "SQL",
+        "Python",
+        "A/B testing",
+        "Switchback tests",
+        "KPI",
+        "Релокация: уточнить"
+      ],
+      "description": "Аналитика Global Logistics и опыта курьеров: дизайн систем выплат, вовлечённость, операционные KPI и экономика маркетплейса. Полное владение экспериментами: A/B- и switchback-тесты перед масштабированием изменений. Требуется 2+ года аналитики с измеримым бизнес-эффектом, продвинутый SQL, Python, BI и свободный английский.",
+      "notes": "Проверено 21.09.2026. Новая публикация от 21.09.2026: присутствует в текущем списке Delivery Hero / Glovo, API active=true. Middle оценён по названию Analyst II и требованию 2+ лет. Продуктово-операционная аналитика; сильные эксперименты, но фокус на курьерских выплатах, а не на пользовательском интерфейсе. В льготах указаны 2 дня работы из дома в неделю. Релокация и визовое спонсорство для этой позиции не подтверждены; уточнить до начала интервью.\nПервоисточник: https://jobs.smartrecruiters.com/DeliveryHero/744000150648659-data-analyst-ii-rider-experience",
+      "source": "import",
+      "stage": "new",
+      "favorite": false,
+      "demo": false
+    },
+    {
+      "title": "Senior Data Analyst - Expansion",
+      "company": "Preply",
+      "url": "https://jobs.ashbyhq.com/preply/ee802349-20a3-416a-9b02-a7e863b8d9ad",
+      "location": "Barcelona, Spain; London, UK",
+      "workMode": "hybrid",
+      "seniority": "senior",
+      "externalId": "ee802349-20a3-416a-9b02-a7e863b8d9ad",
+      "publishedAt": "2026-04-22T10:30:57.745+00:00",
+      "tags": [
+        "Подборка 21.09.2026",
+        "Смежная роль",
+        "Business analytics",
+        "SQL",
+        "Monetization",
+        "Expansion",
+        "Релокация: подтверждена"
+      ],
+      "description": "Аналитика выхода на новые рынки и развития бизнеса: TAM/SAM/SOM, прогнозы, монетизация, бизнес-модели и рекомендации руководству. Требуется 5+ лет аналитики либо близкого консалтингового опыта, SQL, визуализация и финансово-бизнесовое моделирование. Взаимодействие с продуктом и бизнесом, существенная роль в стратегических решениях.",
+      "notes": "Проверено 21.09.2026. Активная вакансия Ashby, разрешены Barcelona и London. Прямо указан пакет переезда в Barcelona Hub; визовое спонсорство и бюджет пакета не раскрыты. Соответствие частичное: много стратегии и моделирования, меньше классической продуктовой аналитики и A/B-тестов. Оценить интерес к направлению Expansion.\nПервоисточник: https://jobs.ashbyhq.com/preply/ee802349-20a3-416a-9b02-a7e863b8d9ad",
+      "source": "import",
+      "stage": "new",
+      "favorite": false,
+      "demo": false
+    },
+    {
+      "title": "Lead Data Analyst, Marketing (SEM)",
+      "company": "Rover",
+      "url": "https://jobs.lever.co/rover/39b3862d-7873-404c-8dc1-f95664ca5882",
+      "location": "Barcelona, Spain",
+      "workMode": "hybrid",
+      "seniority": "lead",
+      "externalId": "39b3862d-7873-404c-8dc1-f95664ca5882",
+      "publishedAt": "2026-09-18T14:58:18.982Z",
+      "salaryMin": 57020,
+      "salaryMax": 69115,
+      "currency": "EUR",
+      "salaryPeriod": "year",
+      "salaryText": "Первый год: €57 020–69 115. Дополнительно долгосрочная денежная премия по результатам компании.",
+      "tags": [
+        "Подборка 21.09.2026",
+        "Смежная роль",
+        "Growth analytics",
+        "SQL",
+        "Python",
+        "A/B testing",
+        "Causal inference",
+        "LTV",
+        "CAC",
+        "Релокация: уточнить"
+      ],
+      "description": "Ведущий аналитик performance-маркетинга: SEM, атрибуция, CAC/LTV, ROAS и окупаемость. Эксперименты с географическими группами, причинные оценки, статистическая мощность и неопределённость. Требуется 6+ лет, SQL и Python/R, коммуникация результатов и развитие аналитических практик команды.",
+      "notes": "Проверено 21.09.2026. Активная Lever-вакансия, опубликована 18.09.2026. Хорошее соответствие методам из расширенного профиля; предметная область — привлечение и маркетинг. Релокация и визовое спонсорство для этой позиции не подтверждены; уточнить до начала интервью.\nПервоисточник: https://jobs.lever.co/rover/39b3862d-7873-404c-8dc1-f95664ca5882",
+      "source": "import",
+      "stage": "new",
+      "favorite": false,
+      "demo": false
+    },
+    {
+      "title": "Data Analyst (CRM)",
+      "company": "Scopely",
+      "url": "https://job-boards.greenhouse.io/scopely/jobs/5212408008",
+      "location": "Barcelona, Spain",
+      "workMode": "unknown",
+      "seniority": "middle",
+      "externalId": "5212408008",
+      "publishedAt": "2026-05-07T09:01:24-04:00",
+      "tags": [
+        "Подборка 21.09.2026",
+        "Смежная роль",
+        "CRM analytics",
+        "SQL",
+        "A/B testing",
+        "Retention",
+        "Gaming",
+        "Релокация: уточнить"
+      ],
+      "description": "Центральная CRM-аналитика портфеля игр: эффективность коммуникаций, retention и конверсия, сегменты игроков, контроль качества данных. Дизайн A/Bn-тестов, размеры выборок и holdout-группы, журнал экспериментов и рекомендации PM. Требуется 4+ года маркетинговой/CRM-аналитики, SQL, BI и понимание статистической значимости.",
+      "notes": "Проверено 21.09.2026. Активная вакансия Greenhouse. Смежная роль с сильной экспериментальной частью; часть времени займут CRM-отчётность и валидация таргетинга. Формальный грейд не указан: Middle в Scout — ориентир по требованию 4+ лет, не подтверждённый уровень работодателя. Релокация и визовое спонсорство для этой позиции не подтверждены; уточнить до начала интервью.\nПервоисточник: https://job-boards.greenhouse.io/scopely/jobs/5212408008",
+      "source": "import",
+      "stage": "new",
+      "favorite": false,
+      "demo": false
+    },
+    {
+      "title": "Experienced Data Analyst - Digital Sales (m/f/d)",
+      "company": "MediaMarktSaturn",
+      "url": "https://careers.mediamarktsaturn.com/MediaMarktES/job/Barcelona-Experienced-Data-Analyst-Digital-Sales-(mfd)-8003/1432639133/",
+      "location": "Barcelona / El Prat de Llobregat, Spain",
+      "workMode": "hybrid",
+      "seniority": "middle",
+      "externalId": "1432639133",
+      "tags": [
+        "Подборка 21.09.2026",
+        "Основной профиль",
+        "Product analytics",
+        "SQL",
+        "A/B testing",
+        "KPI",
+        "BigQuery",
+        "E-commerce",
+        "Релокация: уточнить"
+      ],
+      "description": "Digital Sales Data Foundation: анализ поведения и конверсии, KPI, дизайн и статистическая оценка A/B-тестов, рекомендации для rollout. Работа с аналитиками, data engineers и выделенным Product Owner. Нужен опыт digital/product analytics, SQL, облачных хранилищ, tracking и стейкхолдерского взаимодействия.",
+      "notes": "Проверено 21.09.2026. Официальная страница работодателя доступна с кнопкой Apply now. Формальный уровень — Professional Level; Middle в Scout является ориентиром по требованию нескольких лет опыта. Хорошее совпадение по экспериментам, но есть существенная часть tracking, качества данных и инфраструктуры измерений. Гибрид с выбором офиса в районе Барселоны. Релокация и визовое спонсорство для этой позиции не подтверждены; уточнить до начала интервью.\nПервоисточник: https://careers.mediamarktsaturn.com/MediaMarktES/job/Barcelona-Experienced-Data-Analyst-Digital-Sales-(mfd)-8003/1432639133/",
+      "source": "import",
+      "stage": "new",
+      "favorite": false,
+      "demo": false
+    },
+    {
+      "title": "Product lead & Data Analyst",
+      "company": "Labhouse",
+      "url": "https://jobs.ashbyhq.com/labhouse/42a27830-173f-4748-807f-5e0b1c297b97",
+      "location": "Barcelona, Spain",
+      "workMode": "hybrid",
+      "seniority": "middle",
+      "externalId": "42a27830-173f-4748-807f-5e0b1c297b97",
+      "publishedAt": "2026-05-20T08:09:15.000+00:00",
+      "tags": [
+        "Подборка 21.09.2026",
+        "Смежная роль",
+        "Product + PM",
+        "SQL",
+        "A/B testing",
+        "Retention",
+        "LTV",
+        "Испанский обязателен",
+        "Релокация: уточнить"
+      ],
+      "description": "Совмещение Product Manager и аналитика мобильных подписочных приложений: работа с CEO, запуск продуктов, roadmap, activation, retention и монетизация. SQL, статистика, A/B-тесты и CAC/LTV. Требуется 2–4 года в данных с переходом в продукт и сильный устный/письменный английский и испанский.",
+      "notes": "Проверено 21.09.2026. Активная Ashby-вакансия. Запасной вариант для интереса к продуктовому управлению, а не классическая позиция аналитика. Middle — оценка по требуемому стажу, несмотря на lead в названии. Наличие сильных коллег-аналитиков и зрелых стандартов пока не подтверждено. Обязательный испанский — существенное дополнительное условие. Релокация и визовое спонсорство для этой позиции не подтверждены; уточнить до начала интервью.\nПервоисточник: https://jobs.ashbyhq.com/labhouse/42a27830-173f-4748-807f-5e0b1c297b97",
+      "source": "import",
+      "stage": "new",
+      "favorite": false,
+      "demo": false
+    }
+  ]
+}
